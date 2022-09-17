@@ -4814,27 +4814,49 @@
         "Watchmen"
     ],
     "sheets": {
-        "sheet_1_front.png": "",
-        "sheet_1_back.png": "",
-        "sheet_2_front.png": "",
-        "sheet_2_back.png": "",
-        "sheet_3_front.png": "",
-        "sheet_3_back.png": "",
-        "sheet_4_front.png": "",
-        "sheet_4_back.png": "",
-        "sheet_5_front.png": "",
-        "sheet_5_back.png": "",
-        "sheet_6_front.png": "",
-        "sheet_6_back.png": "",
-        "sheet_7_front.png": "",
-        "sheet_7_back.png": "",
-        "sheet_8_front.png": "",
-        "sheet_8_back.png": "",
-        "sheet_9_front.png": "",
-        "sheet_9_back.png": "",
-        "sheet_10_front.png": "",
-        "sheet_10_back.png": "",
-        "sheet_11_front.png": "",
-        "sheet_11_back.png": ""
+        "1": {
+            "front": "",
+            "back": ""
+        },
+        "2": {
+            "front": "",
+            "back": ""
+        },
+        "3": {
+            "front": "",
+            "back": ""
+        },
+        "4": {
+            "front": "",
+            "back": ""
+        },
+        "5": {
+            "front": "",
+            "back": ""
+        },
+        "6": {
+            "front": "",
+            "back": ""
+        },
+        "7": {
+            "front": "",
+            "back": ""
+        },
+        "8": {
+            "front": "",
+            "back": ""
+        },
+        "9": {
+            "front": "",
+            "back": ""
+        },
+        "10": {
+            "front": "",
+            "back": ""
+        },
+        "11": {
+            "front": "",
+            "back": ""
+        }
     }
 }
