@@ -4785,6 +4785,78 @@
                 "affiliations": [
                     "Riddler"
                 ]
+            },
+            {
+                "id": 743,
+                "name": "Calculator - Noah Kuttler",
+                "x": 4,
+                "y": 5,
+                "affiliations": [
+                    "Unknown"
+                ]
+            },
+            {
+                "id": 744,
+                "name": "Gas Puppet 1 - Unknown",
+                "x": 5,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 745,
+                "name": "Gas Puppet 2 - Unknown",
+                "x": 6,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 746,
+                "name": "Gas Puppet 3 - Unknown",
+                "x": 7,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 747,
+                "name": "Street Jester 1 - Unknown",
+                "x": 8,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 748,
+                "name": "Street Jester 2 - Unknown",
+                "x": 9,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 749,
+                "name": "Street Jester 3 - Unknown",
+                "x": 10,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 750,
+                "name": "Street Jester 4 - Unknown",
+                "x": 1,
+                "y": 6,
+                "affiliations": [
+                    "Joker"
+                ]
             }
         ]
     },
@@ -4815,48 +4887,48 @@
     ],
     "sheets": {
         "1": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834153628/56E8F1210E02ACA7A54E959CD6EAE4AE43BF08A8/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171884719/B993E95A54B82F470102AA0CEB4F4B4A1E783FEE/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674533906/B6470212229EE0A74DB3C83250AB7FBC96F1DCCD/"
         },
         "2": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1840306218674535484/E1F3DEBCA78D3E91E6CB5291B688B6686EFCFB5E/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171885938/ACADF9B6097D173784DDF800358F653C4C88290C/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674534776/371356BEF31BB13114350A33B8B19A19D61F1A5A/"
         },
         "3": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1840306218674537207/92DBEC7C836E7CB870FD95E30202A90361749F29/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171887279/CD998ACE28F43E3F4A71AEE1A8471B63FE19E0EC/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674536377/0197A41757BC8C634B9A61A2B1D6E8B7E5600DE9/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834158159/0AA5A5DD083D186F0AE5D23448A5BA4872149F09/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171888234/E92F4451853B3008C2440DEC1FFECD253B4B2371/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674537789/9A8645B27A41004A449DA637C162BAABCC0762E5/"
         },
         "5": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834159568/06B749FEBA057878867DE27DFC1C74855E9F7E59/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171889338/0BADD5072F70492970B022309A42EF7755135F3B/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1742350804834158825/F7191A34CCAFFBC0D0C725572679B26A8486A0DB/"
         },
         "6": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834161270/7F51E1FF7339BDECDD410C997EEEE1EB1E941B64/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171890344/3D894A1239D2E24741F9648AE574788763BD5A43/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674538720/191A58A519060679E43B43879D634A9CE26D7037/"
         },
         "7": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834163325/9AA2E273734EEDE67B01C1F46EC043716807545F/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171892300/53B2B7D1A36CD372F053F9FB25BE64D702D1EAC9/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674539817/5C7EF2D7F672FE2D3D13CA2EFC692FECAA60C782/"
         },
         "8": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834165809/46DAD7A54A9153E120373639B88E657D13C98859/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171895113/CA5E0906CE2C3B80F08DFF1EDAF75A96ADD46777/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674540946/9373840FC9CA41B7718ED84CB26DCF02298EC3A6/"
         },
         "9": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1840306218674543777/9F87BF5BC4DB3091FB06799718DCEA2CA4BA5B84/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171897795/A20394D9655B73F82492E377CDC4515DEE011838/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674542426/915AC62FB0A70BAC48AB2A90E176B40CEA1D407B/"
         },
         "10": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834171134/3BC3CAF769C0118E91982F6D13729B99E4FFE940/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171901182/18BBA5B0269DC892B6EAD97642A211D89724CA79/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674545566/5184505DBB8695BC6689BC434E95E0C20B5CE5F7/"
         },
         "11": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1742350804834173241/D8E43055EC882A7C7D546F87C888F9F24993187F/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674547222/AF5308D814D9654CF2BA0F168CD06A4553045DD8/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171905613/F9E09FAA54D1D0883104DA79147F3BE65C392B27/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1854944634171904018/2AA87C469DEE662D5168E72F996CEED0DA543CD4/"
         }
     }
 }
