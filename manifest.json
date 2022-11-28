@@ -4,7 +4,7 @@
             {
                 "id": 1,
                 "name": "1880's Talon - Unknown",
-                "x": 2,
+                "x": 1,
                 "y": 1,
                 "affiliations": [
                     "The Court of Owls"
@@ -13,7 +13,7 @@
             {
                 "id": 2,
                 "name": "Mr. Hammer - Abramovici",
-                "x": 3,
+                "x": 2,
                 "y": 1,
                 "affiliations": [
                     "Joker"
@@ -22,7 +22,7 @@
             {
                 "id": 3,
                 "name": "Arsenal - Roy Harper, Jr.",
-                "x": 4,
+                "x": 3,
                 "y": 1,
                 "affiliations": [
                     "Batman"
@@ -31,7 +31,7 @@
             {
                 "id": 4,
                 "name": "Alfred Pennyworth - Alfred Pennyworth",
-                "x": 5,
+                "x": 4,
                 "y": 1,
                 "affiliations": [
                     "Batman"
@@ -40,7 +40,7 @@
             {
                 "id": 5,
                 "name": "Black Mask - Roman Sionis",
-                "x": 6,
+                "x": 5,
                 "y": 1,
                 "affiliations": [
                     "Organized Crime"
@@ -49,7 +49,7 @@
             {
                 "id": 6,
                 "name": "Nyssa Al Ghul - Nyssa Raatko",
-                "x": 7,
+                "x": 6,
                 "y": 1,
                 "affiliations": [
                     "League of Assassins"
@@ -58,7 +58,7 @@
             {
                 "id": 7,
                 "name": "The Riddler (Arkham Knight) - Edward Nigma",
-                "x": 8,
+                "x": 7,
                 "y": 1,
                 "affiliations": [
                     "Riddler"
@@ -67,7 +67,7 @@
             {
                 "id": 8,
                 "name": "The Riddler's Mech - Edward Nigma",
-                "x": 9,
+                "x": 8,
                 "y": 1,
                 "affiliations": [
                     "Riddler"
@@ -76,7 +76,7 @@
             {
                 "id": 9,
                 "name": "Harley Quinn (Arkham Knight) - Dr. Harleen Frances Quinzel",
-                "x": 10,
+                "x": 9,
                 "y": 1,
                 "affiliations": [
                     "Joker"
@@ -85,8 +85,8 @@
             {
                 "id": 14,
                 "name": "Arkham Guard 1 - Unknown",
-                "x": 5,
-                "y": 2,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "Batman"
                 ]
@@ -94,7 +94,7 @@
             {
                 "id": 15,
                 "name": "Arkham Guard 2 - Unknown",
-                "x": 6,
+                "x": 1,
                 "y": 2,
                 "affiliations": [
                     "Batman"
@@ -103,7 +103,7 @@
             {
                 "id": 16,
                 "name": "Arkham Guard 3 - Unknown",
-                "x": 7,
+                "x": 2,
                 "y": 2,
                 "affiliations": [
                     "Batman"
@@ -112,7 +112,7 @@
             {
                 "id": 18,
                 "name": "Arkham Knight - Jason Todd",
-                "x": 9,
+                "x": 3,
                 "y": 2,
                 "affiliations": [
                     "Soldiers of Fortune"
@@ -121,8 +121,8 @@
             {
                 "id": 27,
                 "name": "Bane (Dark Knight Rises) - Unknown",
-                "x": 8,
-                "y": 3,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "League of Assassins",
                     "Soldiers of Fortune"
@@ -131,8 +131,8 @@
             {
                 "id": 28,
                 "name": "Bane (Rebirth) - Unknown",
-                "x": 9,
-                "y": 3,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -140,8 +140,8 @@
             {
                 "id": 29,
                 "name": "Bat-Mite - Unknown",
-                "x": 10,
-                "y": 3,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Batman"
                 ]
@@ -149,8 +149,8 @@
             {
                 "id": 30,
                 "name": "Batgirl - Barbara Gordon",
-                "x": 1,
-                "y": 4,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -160,8 +160,8 @@
             {
                 "id": 32,
                 "name": "Batgirl (Rebirth) - Barbara Gordon",
-                "x": 3,
-                "y": 4,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -172,8 +172,8 @@
             {
                 "id": 33,
                 "name": "Battista - Andrea D'Amico",
-                "x": 4,
-                "y": 4,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -181,8 +181,8 @@
             {
                 "id": 34,
                 "name": "Batman - Bruce Wayne",
-                "x": 5,
-                "y": 4,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -191,8 +191,8 @@
             {
                 "id": 37,
                 "name": "Batman (Arkham Knight) - Bruce Wayne",
-                "x": 8,
-                "y": 4,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -201,8 +201,8 @@
             {
                 "id": 39,
                 "name": "Batman (Ben Affleck) - Bruce Wayne",
-                "x": 10,
-                "y": 4,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -211,8 +211,8 @@
             {
                 "id": 40,
                 "name": "Batman (Flashpoint) - Thomas Wayne",
-                "x": 1,
-                "y": 5,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Batman"
                 ]
@@ -220,8 +220,8 @@
             {
                 "id": 42,
                 "name": "Batman (Knightfall) - Jean Paul Valley",
-                "x": 3,
-                "y": 5,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -230,8 +230,8 @@
             {
                 "id": 43,
                 "name": "Batman (Modern Age) - Bruce Wayne",
-                "x": 4,
-                "y": 5,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -240,8 +240,8 @@
             {
                 "id": 46,
                 "name": "Batman (Dark Knight Rises) - Bruce Wayne",
-                "x": 7,
-                "y": 5,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -250,8 +250,8 @@
             {
                 "id": 50,
                 "name": "Bird - Angel Vallelunga",
-                "x": 1,
-                "y": 6,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -259,8 +259,8 @@
             {
                 "id": 53,
                 "name": "Black Manta - David",
-                "x": 4,
-                "y": 6,
+                "x": 8,
+                "y": 3,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -269,8 +269,8 @@
             {
                 "id": 59,
                 "name": "Bobbie - Unknown",
-                "x": 10,
-                "y": 6,
+                "x": 9,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -278,8 +278,8 @@
             {
                 "id": 60,
                 "name": "Bobbie MKII - Unknown",
-                "x": 1,
-                "y": 7,
+                "x": 10,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -287,19 +287,17 @@
             {
                 "id": 69,
                 "name": "Bouffon - Unknown",
-                "x": 10,
-                "y": 7,
+                "x": 1,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
-            }
-        ],
-        "2": [
+            },
             {
                 "id": 71,
                 "name": "Bud - Bud",
                 "x": 2,
-                "y": 1,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -308,7 +306,7 @@
                 "id": 72,
                 "name": "Calendar Man - Julian Gregory Day",
                 "x": 3,
-                "y": 1,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -316,8 +314,8 @@
             {
                 "id": 74,
                 "name": "Captain Boomerang (Suicide Squad) - George \"Digger\" Harkness",
-                "x": 5,
-                "y": 1,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -326,8 +324,8 @@
             {
                 "id": 75,
                 "name": "Captain Cold - Leonard Snart",
-                "x": 6,
-                "y": 1,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "Mr. Freeze",
                     "Team Arrow",
@@ -337,8 +335,8 @@
             {
                 "id": 76,
                 "name": "Carnivorous Plant - Unknown",
-                "x": 7,
-                "y": 1,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -346,8 +344,8 @@
             {
                 "id": 85,
                 "name": "Coldy - Unknown",
-                "x": 6,
-                "y": 2,
+                "x": 7,
+                "y": 4,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -355,8 +353,8 @@
             {
                 "id": 86,
                 "name": "Commissioner Gordon - James W. Gordon",
-                "x": 7,
-                "y": 2,
+                "x": 8,
+                "y": 4,
                 "affiliations": [
                     "Batman"
                 ]
@@ -364,8 +362,8 @@
             {
                 "id": 95,
                 "name": "Deadshot (Classic) - Floyd Lawton",
-                "x": 6,
-                "y": 3,
+                "x": 9,
+                "y": 4,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -374,8 +372,8 @@
             {
                 "id": 96,
                 "name": "Deadshot (Suicide Squad) - Floyd Lawton",
-                "x": 7,
-                "y": 3,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -385,7 +383,7 @@
                 "id": 100,
                 "name": "Diablo (Suicide Squad) - Chato Santana",
                 "x": 1,
-                "y": 4,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -395,7 +393,7 @@
                 "id": 101,
                 "name": "Cuchillo - Diaz",
                 "x": 2,
-                "y": 4,
+                "y": 5,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -403,8 +401,8 @@
             {
                 "id": 103,
                 "name": "Dollotron 1 - Unknown",
-                "x": 4,
-                "y": 4,
+                "x": 3,
+                "y": 5,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -412,8 +410,8 @@
             {
                 "id": 104,
                 "name": "Dollotron 2 - Unknown",
-                "x": 5,
-                "y": 4,
+                "x": 4,
+                "y": 5,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -421,8 +419,8 @@
             {
                 "id": 105,
                 "name": "Dollotron 3 - Unknown",
-                "x": 6,
-                "y": 4,
+                "x": 5,
+                "y": 5,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -430,8 +428,8 @@
             {
                 "id": 106,
                 "name": "Dreadnought Op - Billy",
-                "x": 7,
-                "y": 4,
+                "x": 6,
+                "y": 5,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -439,8 +437,8 @@
             {
                 "id": 108,
                 "name": "Electrocutioner - Lester Buchinsky",
-                "x": 9,
-                "y": 4,
+                "x": 7,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -449,8 +447,8 @@
             {
                 "id": 109,
                 "name": "Elite Op - Duke",
-                "x": 10,
-                "y": 4,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -458,7 +456,7 @@
             {
                 "id": 110,
                 "name": "Emperor Penguin - Ignatius Ogilvy",
-                "x": 1,
+                "x": 9,
                 "y": 5,
                 "affiliations": [
                     "Penguin"
@@ -467,7 +465,7 @@
             {
                 "id": 112,
                 "name": "Ephraim Newhouse - Ephraim Newhouse",
-                "x": 3,
+                "x": 10,
                 "y": 5,
                 "affiliations": [
                     "The Court of Owls"
@@ -476,8 +474,8 @@
             {
                 "id": 113,
                 "name": "Fat Johnny - John D'Amico",
-                "x": 4,
-                "y": 5,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -485,8 +483,8 @@
             {
                 "id": 115,
                 "name": "Firefly - Garfield Lynns",
-                "x": 6,
-                "y": 5,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -494,8 +492,8 @@
             {
                 "id": 116,
                 "name": "Foxtrot - Unknown",
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -503,8 +501,8 @@
             {
                 "id": 117,
                 "name": "Freezy - Unknown",
-                "x": 8,
-                "y": 5,
+                "x": 4,
+                "y": 6,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -512,8 +510,8 @@
             {
                 "id": 119,
                 "name": "Goat Head Priest - Unknown",
-                "x": 10,
-                "y": 5,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -521,7 +519,7 @@
             {
                 "id": 123,
                 "name": "Gorilla Shaman - Unknown",
-                "x": 4,
+                "x": 6,
                 "y": 6,
                 "affiliations": [
                     "Central City Villains"
@@ -530,7 +528,7 @@
             {
                 "id": 124,
                 "name": "Gorilla Soldier 1 - Unknown",
-                "x": 5,
+                "x": 7,
                 "y": 6,
                 "affiliations": [
                     "Central City Villains"
@@ -539,7 +537,7 @@
             {
                 "id": 125,
                 "name": "Gorilla Soldier 2 - Unknown",
-                "x": 6,
+                "x": 8,
                 "y": 6,
                 "affiliations": [
                     "Central City Villains"
@@ -548,7 +546,7 @@
             {
                 "id": 126,
                 "name": "Goro - Unknown",
-                "x": 7,
+                "x": 9,
                 "y": 6,
                 "affiliations": [
                     "League of Assassins"
@@ -557,7 +555,7 @@
             {
                 "id": 127,
                 "name": "Gotham Butcher - Felix Harmon",
-                "x": 8,
+                "x": 10,
                 "y": 6,
                 "affiliations": [
                     "The Court of Owls"
@@ -566,7 +564,7 @@
             {
                 "id": 132,
                 "name": "Grodd - Grodd",
-                "x": 3,
+                "x": 1,
                 "y": 7,
                 "affiliations": [
                     "Central City Villains",
@@ -576,7 +574,7 @@
             {
                 "id": 135,
                 "name": "Harley Quinn (Rebirth) - Dr. Harleen Frances Quinzel",
-                "x": 6,
+                "x": 2,
                 "y": 7,
                 "affiliations": [
                     "Suicide Squad",
@@ -586,20 +584,18 @@
             {
                 "id": 136,
                 "name": "Harley Quinn (Suicide Squad) - Dr. Harleen Frances Quinzel",
-                "x": 7,
+                "x": 3,
                 "y": 7,
                 "affiliations": [
                     "Joker",
                     "Suicide Squad"
                 ]
-            }
-        ],
-        "3": [
+            },
             {
                 "id": 147,
                 "name": "Hawkgirl - Kendra Saunders",
-                "x": 8,
-                "y": 1,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -608,8 +604,8 @@
             {
                 "id": 148,
                 "name": "Hawkman - Carter Hall",
-                "x": 9,
-                "y": 1,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -618,8 +614,8 @@
             {
                 "id": 149,
                 "name": "Heat Wave - Mick Rory",
-                "x": 10,
-                "y": 1,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Team Arrow",
                     "Unknown"
@@ -628,8 +624,8 @@
             {
                 "id": 150,
                 "name": "Henry Ballard - Henry Ballard",
-                "x": 1,
-                "y": 2,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -637,8 +633,8 @@
             {
                 "id": 151,
                 "name": "High Court Lady - Unknown",
-                "x": 2,
-                "y": 2,
+                "x": 8,
+                "y": 7,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -646,8 +642,8 @@
             {
                 "id": 152,
                 "name": "High Court Member - Unknown",
-                "x": 3,
-                "y": 2,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -655,17 +651,19 @@
             {
                 "id": 154,
                 "name": "High Security Henchman - Unknown",
-                "x": 5,
-                "y": 2,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Unknown"
                 ]
-            },
+            }
+        ],
+        "2": [
             {
                 "id": 155,
                 "name": "Hobo Clown - Unknown",
-                "x": 6,
-                "y": 2,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -673,8 +671,8 @@
             {
                 "id": 157,
                 "name": "Huntress - Helena Bertinelli",
-                "x": 8,
-                "y": 2,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -684,8 +682,8 @@
             {
                 "id": 160,
                 "name": "Ichi - Unknown",
-                "x": 1,
-                "y": 3,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -693,8 +691,8 @@
             {
                 "id": 161,
                 "name": "Icy - Unknown",
-                "x": 2,
-                "y": 3,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -702,8 +700,8 @@
             {
                 "id": 162,
                 "name": "Jason Blood - Jason Blood",
-                "x": 3,
-                "y": 3,
+                "x": 5,
+                "y": 1,
                 "affiliations": [
                     "Batman"
                 ]
@@ -711,8 +709,8 @@
             {
                 "id": 164,
                 "name": "John Constantine - John Constantine",
-                "x": 5,
-                "y": 3,
+                "x": 6,
+                "y": 1,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -721,8 +719,8 @@
             {
                 "id": 165,
                 "name": "Joker - Unknown",
-                "x": 6,
-                "y": 3,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -730,8 +728,8 @@
             {
                 "id": 166,
                 "name": "Joker (Arkham Asylum) - Unknown",
-                "x": 7,
-                "y": 3,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -740,7 +738,7 @@
                 "id": 168,
                 "name": "Joker (Jared Leto) - Unknown",
                 "x": 9,
-                "y": 3,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -748,8 +746,8 @@
             {
                 "id": 171,
                 "name": "Joker's Daughter - Duela Dent",
-                "x": 2,
-                "y": 4,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "Joker",
                     "Suicide Squad"
@@ -758,8 +756,8 @@
             {
                 "id": 173,
                 "name": "Katana - Tatsu Yamashiro",
-                "x": 4,
-                "y": 4,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad",
@@ -769,8 +767,8 @@
             {
                 "id": 174,
                 "name": "Katana (Suicide Squad) - Tatsu Yamashiro",
-                "x": 5,
-                "y": 4,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad",
@@ -780,8 +778,8 @@
             {
                 "id": 175,
                 "name": "Ki - Unknown",
-                "x": 6,
-                "y": 4,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -789,8 +787,8 @@
             {
                 "id": 178,
                 "name": "Killer Croc (Suicide Squad) - Waylon Jones",
-                "x": 9,
-                "y": 4,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -799,8 +797,8 @@
             {
                 "id": 180,
                 "name": "Lady Shiva - Sandra Wu-San",
-                "x": 1,
-                "y": 5,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Birds of Prey",
                     "League of Assassins"
@@ -809,8 +807,8 @@
             {
                 "id": 184,
                 "name": "Lerida - Unknown",
-                "x": 5,
-                "y": 5,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Batman"
                 ]
@@ -818,8 +816,8 @@
             {
                 "id": 194,
                 "name": "Lou - Lou",
-                "x": 5,
-                "y": 6,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Joker"
                 ]
@@ -827,8 +825,8 @@
             {
                 "id": 196,
                 "name": "Malatesta - Hugo Testa",
-                "x": 7,
-                "y": 6,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -836,8 +834,8 @@
             {
                 "id": 197,
                 "name": "Mary - Unknown",
-                "x": 8,
-                "y": 6,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Joker"
                 ]
@@ -845,8 +843,8 @@
             {
                 "id": 201,
                 "name": "Militia Soldier 1 - Perry",
-                "x": 2,
-                "y": 7,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -854,8 +852,8 @@
             {
                 "id": 203,
                 "name": "Militia Soldier 2 - Unknown",
-                "x": 4,
-                "y": 7,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -863,8 +861,8 @@
             {
                 "id": 204,
                 "name": "Militia Soldier 3 - Scott",
-                "x": 5,
-                "y": 7,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -872,8 +870,8 @@
             {
                 "id": 205,
                 "name": "Militia Brute - Drummer",
-                "x": 6,
-                "y": 7,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -881,8 +879,8 @@
             {
                 "id": 208,
                 "name": "Militia Lieutenant - Ross",
-                "x": 9,
-                "y": 7,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -890,19 +888,17 @@
             {
                 "id": 209,
                 "name": "Militia Medic - Dillon",
-                "x": 10,
-                "y": 7,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
-            }
-        ],
-        "4": [
+            },
             {
                 "id": 214,
                 "name": "Mr. Freeze (Arkham Knight) - Victor Fries",
-                "x": 5,
-                "y": 1,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -910,8 +906,8 @@
             {
                 "id": 215,
                 "name": "Mr. Grin (Black) - Unknown",
-                "x": 6,
-                "y": 1,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -919,8 +915,8 @@
             {
                 "id": 216,
                 "name": "Mr. Grin (White) - Unknown",
-                "x": 7,
-                "y": 1,
+                "x": 8,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -928,8 +924,8 @@
             {
                 "id": 220,
                 "name": "Nen - Unknown",
-                "x": 1,
-                "y": 2,
+                "x": 9,
+                "y": 3,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -937,8 +933,8 @@
             {
                 "id": 222,
                 "name": "Nightwing (Arkham Knight) - Dick Grayson",
-                "x": 3,
-                "y": 2,
+                "x": 10,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -948,8 +944,8 @@
             {
                 "id": 224,
                 "name": "O'Malley's Father - Brandon O'Malley",
-                "x": 5,
-                "y": 2,
+                "x": 1,
+                "y": 4,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -957,8 +953,8 @@
             {
                 "id": 225,
                 "name": "O'Malley's Grandfather - James O'Malley",
-                "x": 6,
-                "y": 2,
+                "x": 2,
+                "y": 4,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -966,8 +962,8 @@
             {
                 "id": 226,
                 "name": "O'Malley's Son - Nathaniel O'Malley",
-                "x": 7,
-                "y": 2,
+                "x": 3,
+                "y": 4,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -975,8 +971,8 @@
             {
                 "id": 227,
                 "name": "Panda Man - Unknown",
-                "x": 8,
-                "y": 2,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -984,8 +980,8 @@
             {
                 "id": 232,
                 "name": "Penguin Lieutenant - Big A",
-                "x": 3,
-                "y": 3,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -993,8 +989,8 @@
             {
                 "id": 239,
                 "name": "Prisoner 04211 - Gustaff Gustaffson",
-                "x": 10,
-                "y": 3,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1002,7 +998,7 @@
             {
                 "id": 241,
                 "name": "Prisoner 47905 - Carlo Grotti",
-                "x": 2,
+                "x": 7,
                 "y": 4,
                 "affiliations": [
                     "Unknown"
@@ -1011,7 +1007,7 @@
             {
                 "id": 242,
                 "name": "Prisoner 93432 - Tyrone Johnson",
-                "x": 3,
+                "x": 8,
                 "y": 4,
                 "affiliations": [
                     "Unknown"
@@ -1020,7 +1016,7 @@
             {
                 "id": 243,
                 "name": "Professor Pyg - Lazlo Valentin",
-                "x": 4,
+                "x": 9,
                 "y": 4,
                 "affiliations": [
                     "Unknown"
@@ -1029,8 +1025,8 @@
             {
                 "id": 250,
                 "name": "Quiz 1 - Alexander",
-                "x": 1,
-                "y": 5,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -1038,7 +1034,7 @@
             {
                 "id": 251,
                 "name": "Quiz 2 - Igor",
-                "x": 2,
+                "x": 1,
                 "y": 5,
                 "affiliations": [
                     "Riddler"
@@ -1047,7 +1043,7 @@
             {
                 "id": 252,
                 "name": "Quiz 3 - John Carrie",
-                "x": 3,
+                "x": 2,
                 "y": 5,
                 "affiliations": [
                     "Riddler"
@@ -1056,7 +1052,7 @@
             {
                 "id": 254,
                 "name": "Ra's Al Ghul - Unknown",
-                "x": 5,
+                "x": 3,
                 "y": 5,
                 "affiliations": [
                     "League of Assassins"
@@ -1065,7 +1061,7 @@
             {
                 "id": 255,
                 "name": "Ra's Al Ghul (Rebirth) - Unknown",
-                "x": 6,
+                "x": 4,
                 "y": 5,
                 "affiliations": [
                     "League of Assassins"
@@ -1074,7 +1070,7 @@
             {
                 "id": 257,
                 "name": "Raven - Rachel Roth",
-                "x": 8,
+                "x": 5,
                 "y": 5,
                 "affiliations": [
                     "Batman",
@@ -1084,7 +1080,7 @@
             {
                 "id": 258,
                 "name": "Reaper - Benjamin Gruener",
-                "x": 9,
+                "x": 6,
                 "y": 5,
                 "affiliations": [
                     "Organized Crime"
@@ -1093,7 +1089,7 @@
             {
                 "id": 259,
                 "name": "Red Hood (Arkham Knight) - Jason Todd",
-                "x": 10,
+                "x": 7,
                 "y": 5,
                 "affiliations": [
                     "Bat Family",
@@ -1104,8 +1100,8 @@
             {
                 "id": 261,
                 "name": "Reverse Flash (TV) - Eobard Thawne",
-                "x": 2,
-                "y": 6,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -1114,8 +1110,8 @@
             {
                 "id": 262,
                 "name": "Rick Flag - Richard Rogers Flag",
-                "x": 3,
-                "y": 6,
+                "x": 9,
+                "y": 5,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad"
@@ -1124,8 +1120,8 @@
             {
                 "id": 270,
                 "name": "Robin (Boy Wonder) - Dick Grayson",
-                "x": 1,
-                "y": 7,
+                "x": 10,
+                "y": 5,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -1135,8 +1131,8 @@
             {
                 "id": 274,
                 "name": "Sal Maroni - Salvatore Maroni",
-                "x": 5,
-                "y": 7,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1144,8 +1140,8 @@
             {
                 "id": 278,
                 "name": "Scarecrow (Arkham Knight) - Jonathan Crane",
-                "x": 9,
-                "y": 7,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -1153,19 +1149,17 @@
             {
                 "id": 279,
                 "name": "Schoolboy - Ike",
-                "x": 10,
-                "y": 7,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
-            }
-        ],
-        "5": [
+            },
             {
                 "id": 283,
                 "name": "Sierra - Unknown",
                 "x": 4,
-                "y": 1,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -1173,8 +1167,8 @@
             {
                 "id": 285,
                 "name": "Slipknot (Suicide Squad) - Christopher Weiss",
-                "x": 6,
-                "y": 1,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -1183,8 +1177,8 @@
             {
                 "id": 296,
                 "name": "Spartan - John Diggle",
-                "x": 7,
-                "y": 2,
+                "x": 6,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -1193,8 +1187,8 @@
             {
                 "id": 298,
                 "name": "Spikes Plant - Unknown",
-                "x": 9,
-                "y": 2,
+                "x": 7,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -1202,8 +1196,8 @@
             {
                 "id": 301,
                 "name": "Stealth Op - Kabuto",
-                "x": 2,
-                "y": 3,
+                "x": 8,
+                "y": 6,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -1211,8 +1205,8 @@
             {
                 "id": 305,
                 "name": "Strix - Mary Turner",
-                "x": 6,
-                "y": 3,
+                "x": 9,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey",
                     "The Court of Owls"
@@ -1221,8 +1215,8 @@
             {
                 "id": 306,
                 "name": "Clover - Sullivan",
-                "x": 7,
-                "y": 3,
+                "x": 10,
+                "y": 6,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -1230,8 +1224,8 @@
             {
                 "id": 311,
                 "name": "Tet - Unknown",
-                "x": 2,
-                "y": 4,
+                "x": 1,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1239,8 +1233,8 @@
             {
                 "id": 312,
                 "name": "The Bull - Luigi Lombardo",
-                "x": 3,
-                "y": 4,
+                "x": 2,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1248,8 +1242,8 @@
             {
                 "id": 313,
                 "name": "The Eyeball Man - Stan",
-                "x": 4,
-                "y": 4,
+                "x": 3,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1257,8 +1251,8 @@
             {
                 "id": 316,
                 "name": "The Holiday Killer - Alberto Falcone",
-                "x": 7,
-                "y": 4,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1266,8 +1260,8 @@
             {
                 "id": 317,
                 "name": "Joker (Dark Knight Rises) - Unknown",
-                "x": 8,
-                "y": 4,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1275,8 +1269,8 @@
             {
                 "id": 320,
                 "name": "The Riddler (Modern Age) - Edward Nigma",
-                "x": 1,
-                "y": 5,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Riddler",
                     "Suicide Squad"
@@ -1285,8 +1279,8 @@
             {
                 "id": 322,
                 "name": "The Roman - Carmine Falcone",
-                "x": 3,
-                "y": 5,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1294,8 +1288,8 @@
             {
                 "id": 326,
                 "name": "Troy Sins - Troy Santino",
-                "x": 7,
-                "y": 5,
+                "x": 8,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1303,8 +1297,8 @@
             {
                 "id": 334,
                 "name": "Vipera - Samuel Hill",
-                "x": 5,
-                "y": 6,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1312,17 +1306,19 @@
             {
                 "id": 335,
                 "name": "Vov - Unknown",
-                "x": 6,
-                "y": 6,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
-            },
+            }
+        ],
+        "3": [
             {
                 "id": 337,
                 "name": "White-Face - Unknown",
-                "x": 8,
-                "y": 6,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1330,8 +1326,8 @@
             {
                 "id": 338,
                 "name": "The Talon - William Cobb",
-                "x": 9,
-                "y": 6,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -1339,8 +1335,8 @@
             {
                 "id": 339,
                 "name": "1890's Talon - Xiao Loong",
-                "x": 10,
-                "y": 6,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -1348,8 +1344,8 @@
             {
                 "id": 342,
                 "name": "Zatanna - Zatanna Zatara",
-                "x": 3,
-                "y": 7,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Batman"
                 ]
@@ -1358,7 +1354,7 @@
                 "id": 344,
                 "name": "The Flash - Barry Allen",
                 "x": 5,
-                "y": 7,
+                "y": 1,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -1368,7 +1364,7 @@
                 "id": 345,
                 "name": "Nightwing - Dick Grayson",
                 "x": 6,
-                "y": 7,
+                "y": 1,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -1378,8 +1374,8 @@
             {
                 "id": 347,
                 "name": "Harley Quinn - Dr. Harleen Frances Quinzel",
-                "x": 8,
-                "y": 7,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey",
                     "Joker",
@@ -1389,19 +1385,17 @@
             {
                 "id": 348,
                 "name": "Poison Ivy - Dr. Pamela Lillian Isley",
-                "x": 9,
-                "y": 7,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey",
                     "Suicide Squad"
                 ]
-            }
-        ],
-        "6": [
+            },
             {
                 "id": 350,
                 "name": "Two-Face - Harvey Dent",
-                "x": 1,
+                "x": 9,
                 "y": 1,
                 "affiliations": [
                     "Organized Crime"
@@ -1410,7 +1404,7 @@
             {
                 "id": 352,
                 "name": "Quelle - Josette",
-                "x": 3,
+                "x": 10,
                 "y": 1,
                 "affiliations": [
                     "Riddler"
@@ -1419,8 +1413,8 @@
             {
                 "id": 353,
                 "name": "Green Arrow - Oliver Queen",
-                "x": 4,
-                "y": 1,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -1429,8 +1423,8 @@
             {
                 "id": 354,
                 "name": "Catwoman - Selina Kyle",
-                "x": 5,
-                "y": 1,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Unknown"
@@ -1439,8 +1433,8 @@
             {
                 "id": 355,
                 "name": "Deathstroke (Arkham Origins) - Slade Wilson",
-                "x": 6,
-                "y": 1,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "Suicide Squad",
                     "Team Arrow",
@@ -1450,8 +1444,8 @@
             {
                 "id": 358,
                 "name": "Talia Al Ghul - Talia Al Ghul",
-                "x": 9,
-                "y": 1,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "League of Assassins",
                     "Organized Crime"
@@ -1460,7 +1454,7 @@
             {
                 "id": 361,
                 "name": "Killer Croc - Waylon Jones",
-                "x": 2,
+                "x": 5,
                 "y": 2,
                 "affiliations": [
                     "Suicide Squad",
@@ -1470,7 +1464,7 @@
             {
                 "id": 362,
                 "name": "Owlman - Thomas Wayne Jr.",
-                "x": 3,
+                "x": 6,
                 "y": 2,
                 "affiliations": [
                     "Unknown"
@@ -1479,7 +1473,7 @@
             {
                 "id": 368,
                 "name": "Zur-En-Arrh Batman - Bruce Wayne",
-                "x": 9,
+                "x": 7,
                 "y": 2,
                 "affiliations": [
                     "Bat Family",
@@ -1489,7 +1483,7 @@
             {
                 "id": 369,
                 "name": "Queen Hippolita - Hippolyta",
-                "x": 10,
+                "x": 8,
                 "y": 2,
                 "affiliations": [
                     "Amazons of Themyscira"
@@ -1498,8 +1492,8 @@
             {
                 "id": 370,
                 "name": "Amazon Warrior 1 - Unknown",
-                "x": 1,
-                "y": 3,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Amazons of Themyscira"
                 ]
@@ -1507,8 +1501,8 @@
             {
                 "id": 371,
                 "name": "Amazon Warrior 3 - Unknown",
-                "x": 2,
-                "y": 3,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Amazons of Themyscira"
                 ]
@@ -1516,7 +1510,7 @@
             {
                 "id": 372,
                 "name": "Amazon Warrior 2 - Unknown",
-                "x": 3,
+                "x": 1,
                 "y": 3,
                 "affiliations": [
                     "Amazons of Themyscira"
@@ -1525,7 +1519,7 @@
             {
                 "id": 375,
                 "name": "Johnny Quick - Jonathan Allen",
-                "x": 6,
+                "x": 2,
                 "y": 3,
                 "affiliations": [
                     "Unknown"
@@ -1534,8 +1528,8 @@
             {
                 "id": 381,
                 "name": "Batman (Rebirth) - Bruce Wayne",
-                "x": 2,
-                "y": 4,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -1544,8 +1538,8 @@
             {
                 "id": 382,
                 "name": "Lobo - Unknown",
-                "x": 3,
-                "y": 4,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1554,7 +1548,7 @@
                 "id": 384,
                 "name": "Killer Frost - Louise Lincoln",
                 "x": 5,
-                "y": 4,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze",
                     "Suicide Squad",
@@ -1566,7 +1560,7 @@
                 "id": 385,
                 "name": "The Batman Who Laughs - Bruce Wayne",
                 "x": 6,
-                "y": 4,
+                "y": 3,
                 "affiliations": [
                     "The Batman Who Laughs",
                     "Unknown"
@@ -1576,7 +1570,7 @@
                 "id": 386,
                 "name": "Catwoman (Modern Age) - Selina Kyle",
                 "x": 7,
-                "y": 4,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Unknown"
@@ -1586,7 +1580,7 @@
                 "id": 387,
                 "name": "Swamp Thing - Alec Holland",
                 "x": 8,
-                "y": 4,
+                "y": 3,
                 "affiliations": [
                     "Batman",
                     "Birds of Prey"
@@ -1596,7 +1590,7 @@
                 "id": 388,
                 "name": "Deadman - Boston Brand",
                 "x": 9,
-                "y": 4,
+                "y": 3,
                 "affiliations": [
                     "Batman"
                 ]
@@ -1605,7 +1599,7 @@
                 "id": 389,
                 "name": "Black Orchid - Susan Linden",
                 "x": 10,
-                "y": 4,
+                "y": 3,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad"
@@ -1615,7 +1609,7 @@
                 "id": 390,
                 "name": "Lex Luthor - Alexander Joseph Luthor",
                 "x": 1,
-                "y": 5,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1623,8 +1617,8 @@
             {
                 "id": 392,
                 "name": "Lexcorp Heavy Trooper - Unknown",
-                "x": 3,
-                "y": 5,
+                "x": 2,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1632,8 +1626,8 @@
             {
                 "id": 393,
                 "name": "LexCorp Trooper 1 - Unknown",
-                "x": 4,
-                "y": 5,
+                "x": 3,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1641,8 +1635,8 @@
             {
                 "id": 394,
                 "name": "LexCorp Trooper 2 - Unknown",
-                "x": 5,
-                "y": 5,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1650,8 +1644,8 @@
             {
                 "id": 395,
                 "name": "LexCorp Trooper 3 - Unknown",
-                "x": 6,
-                "y": 5,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1659,8 +1653,8 @@
             {
                 "id": 396,
                 "name": "The Red Death - Bruce Wayne",
-                "x": 7,
-                "y": 5,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1668,8 +1662,8 @@
             {
                 "id": 397,
                 "name": "The Drowned - Bryce Wayne",
-                "x": 8,
-                "y": 5,
+                "x": 7,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1677,8 +1671,8 @@
             {
                 "id": 398,
                 "name": "The Merciless - Bruce Wayne",
-                "x": 9,
-                "y": 5,
+                "x": 8,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1686,8 +1680,8 @@
             {
                 "id": 399,
                 "name": "The Ventriloquist - Arnold Wesker",
-                "x": 10,
-                "y": 5,
+                "x": 9,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1695,8 +1689,8 @@
             {
                 "id": 400,
                 "name": "Showtime - Tony Gianni",
-                "x": 1,
-                "y": 6,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1704,8 +1698,8 @@
             {
                 "id": 401,
                 "name": "Iceman - Rosco Versace",
-                "x": 2,
-                "y": 6,
+                "x": 1,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1713,8 +1707,8 @@
             {
                 "id": 402,
                 "name": "The Tailor - Alan Il'Gordo",
-                "x": 3,
-                "y": 6,
+                "x": 2,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -1722,8 +1716,8 @@
             {
                 "id": 403,
                 "name": "King Shark - Shay Lamden",
-                "x": 4,
-                "y": 6,
+                "x": 3,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -1732,8 +1726,8 @@
             {
                 "id": 404,
                 "name": "Borgon the Cursed - Unknown",
-                "x": 5,
-                "y": 6,
+                "x": 4,
+                "y": 5,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1741,8 +1735,8 @@
             {
                 "id": 405,
                 "name": "Rastaclown - Unknown",
-                "x": 6,
-                "y": 6,
+                "x": 5,
+                "y": 5,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1750,8 +1744,8 @@
             {
                 "id": 406,
                 "name": "Batman (Knightmare) - Bruce Wayne",
-                "x": 7,
-                "y": 6,
+                "x": 6,
+                "y": 5,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -1760,8 +1754,8 @@
             {
                 "id": 407,
                 "name": "Booster Gold - Michael Jon Carter",
-                "x": 8,
-                "y": 6,
+                "x": 7,
+                "y": 5,
                 "affiliations": [
                     "Batman"
                 ]
@@ -1769,8 +1763,8 @@
             {
                 "id": 408,
                 "name": "Blue Beetle - Ted Kord",
-                "x": 9,
-                "y": 6,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Batman"
                 ]
@@ -1778,8 +1772,8 @@
             {
                 "id": 409,
                 "name": "Poison Ivy - Dr. Pamela Lillian Isley",
-                "x": 10,
-                "y": 6,
+                "x": 9,
+                "y": 5,
                 "affiliations": [
                     "Birds of Prey",
                     "Suicide Squad"
@@ -1788,8 +1782,8 @@
             {
                 "id": 410,
                 "name": "Mutated Plant 1 - Unknown",
-                "x": 1,
-                "y": 7,
+                "x": 10,
+                "y": 5,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -1797,8 +1791,8 @@
             {
                 "id": 411,
                 "name": "Mutated Plant 2 - Unknown",
-                "x": 2,
-                "y": 7,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -1806,8 +1800,8 @@
             {
                 "id": 412,
                 "name": "Mutated Plant 3 - Unknown",
-                "x": 3,
-                "y": 7,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -1815,8 +1809,8 @@
             {
                 "id": 413,
                 "name": "The Demon - Etrigan",
-                "x": 4,
-                "y": 7,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -1824,8 +1818,8 @@
             {
                 "id": 414,
                 "name": "The Wizard - Malcolm Merlyn",
-                "x": 5,
-                "y": 7,
+                "x": 4,
+                "y": 6,
                 "affiliations": [
                     "League of Assassins",
                     "Team Arrow"
@@ -1834,8 +1828,8 @@
             {
                 "id": 415,
                 "name": "Damien Darhk - Damien Darhk",
-                "x": 6,
-                "y": 7,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1843,8 +1837,8 @@
             {
                 "id": 416,
                 "name": "Ace of Spades - Unknown",
-                "x": 7,
-                "y": 7,
+                "x": 6,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1852,8 +1846,8 @@
             {
                 "id": 417,
                 "name": "Dynamite - Unknown",
-                "x": 8,
-                "y": 7,
+                "x": 7,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1861,8 +1855,8 @@
             {
                 "id": 418,
                 "name": "Gaggy - Unknown",
-                "x": 9,
-                "y": 7,
+                "x": 8,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1870,20 +1864,18 @@
             {
                 "id": 419,
                 "name": "The Flash (TV Show) - Barry Allen",
-                "x": 10,
-                "y": 7,
+                "x": 9,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
                 ]
-            }
-        ],
-        "7": [
+            },
             {
                 "id": 420,
                 "name": "Vibe - Cisco Ramon",
-                "x": 1,
-                "y": 1,
+                "x": 10,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -1892,8 +1884,8 @@
             {
                 "id": 421,
                 "name": "Harry - Harrison Wells (Earth's 2)",
-                "x": 2,
-                "y": 1,
+                "x": 1,
+                "y": 7,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -1902,8 +1894,8 @@
             {
                 "id": 422,
                 "name": "Batman (Multiverse) - Bruce Wayne",
-                "x": 3,
-                "y": 1,
+                "x": 2,
+                "y": 7,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -1912,8 +1904,8 @@
             {
                 "id": 423,
                 "name": "Quiz 4 - Finn O\u2019Farrell",
-                "x": 4,
-                "y": 1,
+                "x": 3,
+                "y": 7,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -1921,8 +1913,8 @@
             {
                 "id": 424,
                 "name": "Quiz 5 - Francoise Moreau",
-                "x": 5,
-                "y": 1,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -1930,8 +1922,8 @@
             {
                 "id": 425,
                 "name": "Query - Unknown",
-                "x": 6,
-                "y": 1,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -1939,8 +1931,8 @@
             {
                 "id": 426,
                 "name": "Echo - Unknown",
-                "x": 7,
-                "y": 1,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -1948,8 +1940,8 @@
             {
                 "id": 427,
                 "name": "Clayface - Basil Karlo",
-                "x": 8,
-                "y": 1,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "Bat Family",
                     "Unknown"
@@ -1958,15 +1950,15 @@
             {
                 "id": 430,
                 "name": "Black Flash - Unknown",
-                "x": 1,
-                "y": 2,
+                "x": 8,
+                "y": 7,
                 "affiliations": []
             },
             {
                 "id": 431,
                 "name": "Joker (The Killing Joke) - Unknown",
-                "x": 2,
-                "y": 2,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -1974,17 +1966,19 @@
             {
                 "id": 432,
                 "name": "Man-Bat - Dr. Kirk Langstrom",
-                "x": 3,
-                "y": 2,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Unknown"
                 ]
-            },
+            }
+        ],
+        "4": [
             {
                 "id": 433,
                 "name": "Scarecrow - Jonathan Crane",
-                "x": 4,
-                "y": 2,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -1992,8 +1986,8 @@
             {
                 "id": 434,
                 "name": "Solomon Grundy - Cyrus Gold",
-                "x": 5,
-                "y": 2,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2001,8 +1995,8 @@
             {
                 "id": 435,
                 "name": "Lincoln March - Lincoln March",
-                "x": 6,
-                "y": 2,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -2010,8 +2004,8 @@
             {
                 "id": 436,
                 "name": "Robin - Damian Wayne",
-                "x": 7,
-                "y": 2,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -2023,8 +2017,8 @@
             {
                 "id": 437,
                 "name": "Goliath - Goliath",
-                "x": 8,
-                "y": 2,
+                "x": 5,
+                "y": 1,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -2035,8 +2029,8 @@
             {
                 "id": 438,
                 "name": "Penguin Elite Thug - Mason",
-                "x": 9,
-                "y": 2,
+                "x": 6,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2044,8 +2038,8 @@
             {
                 "id": 439,
                 "name": "Penguin Thug 1 - Shane",
-                "x": 10,
-                "y": 2,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2053,8 +2047,8 @@
             {
                 "id": 440,
                 "name": "Penguin Thug 2 - Tanner",
-                "x": 1,
-                "y": 3,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2062,8 +2056,8 @@
             {
                 "id": 441,
                 "name": "Loose Lips - Ricky LeBlanc",
-                "x": 2,
-                "y": 3,
+                "x": 9,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2071,8 +2065,8 @@
             {
                 "id": 442,
                 "name": "Rocket Launcher Penguin - Unknown",
-                "x": 3,
-                "y": 3,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2080,8 +2074,8 @@
             {
                 "id": 443,
                 "name": "Minigun Penguin - Unknown",
-                "x": 4,
-                "y": 3,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2089,8 +2083,8 @@
             {
                 "id": 444,
                 "name": "Explosive Penguin - Unknown",
-                "x": 5,
-                "y": 3,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2098,8 +2092,8 @@
             {
                 "id": 445,
                 "name": "Lark - Unknown",
-                "x": 6,
-                "y": 3,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2107,8 +2101,8 @@
             {
                 "id": 446,
                 "name": "The Penguin - Oswald Chesterfield Cobblepot",
-                "x": 7,
-                "y": 3,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2116,8 +2110,8 @@
             {
                 "id": 448,
                 "name": "Ozymandias - Adrian Alexander Veidt",
-                "x": 9,
-                "y": 3,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Watchmen"
@@ -2126,8 +2120,8 @@
             {
                 "id": 449,
                 "name": "Rorschach - Walter Joseph Kovacs",
-                "x": 10,
-                "y": 3,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Watchmen"
@@ -2136,8 +2130,8 @@
             {
                 "id": 450,
                 "name": "The Comedian - Edward Blake",
-                "x": 1,
-                "y": 4,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Watchmen"
@@ -2146,8 +2140,8 @@
             {
                 "id": 451,
                 "name": "Silk Spectre II - Laurie Juspeczyk",
-                "x": 2,
-                "y": 4,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Watchmen"
@@ -2156,8 +2150,8 @@
             {
                 "id": 452,
                 "name": "Nite Owl - Daniel Dreiberg",
-                "x": 3,
-                "y": 4,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Watchmen"
@@ -2166,8 +2160,8 @@
             {
                 "id": 453,
                 "name": "Harley Quinn (Bombshell) - Dr. Harleen Frances Quinzel",
-                "x": 4,
-                "y": 4,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Joker",
                     "Suicide Squad"
@@ -2176,8 +2170,8 @@
             {
                 "id": 454,
                 "name": "Batman (Gaslight) - Bruce Wayne",
-                "x": 5,
-                "y": 4,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -2186,8 +2180,8 @@
             {
                 "id": 455,
                 "name": "Support Op - Dolph Wolf",
-                "x": 6,
-                "y": 4,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -2195,8 +2189,8 @@
             {
                 "id": 456,
                 "name": "Sharp Shooter - Kyle Kurt",
-                "x": 7,
-                "y": 4,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -2204,8 +2198,8 @@
             {
                 "id": 457,
                 "name": "Mad Hatter - Jervis Tetch",
-                "x": 8,
-                "y": 4,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2213,8 +2207,8 @@
             {
                 "id": 458,
                 "name": "Ratcatcher - Otis Flannegan",
-                "x": 9,
-                "y": 4,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2222,8 +2216,8 @@
             {
                 "id": 459,
                 "name": "Sewer Swarm - Unknown",
-                "x": 10,
-                "y": 4,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2231,8 +2225,8 @@
             {
                 "id": 460,
                 "name": "Hassassin 1 - Unknown",
-                "x": 1,
-                "y": 5,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2240,8 +2234,8 @@
             {
                 "id": 461,
                 "name": "Hassassin 2 - Unknown",
-                "x": 2,
-                "y": 5,
+                "x": 8,
+                "y": 3,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2249,8 +2243,8 @@
             {
                 "id": 462,
                 "name": "Hassassin 3 - Unknown",
-                "x": 3,
-                "y": 5,
+                "x": 9,
+                "y": 3,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2258,8 +2252,8 @@
             {
                 "id": 463,
                 "name": "Hassassin 4 - Unknown",
-                "x": 4,
-                "y": 5,
+                "x": 10,
+                "y": 3,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2267,8 +2261,8 @@
             {
                 "id": 464,
                 "name": "The Heretic - Damian Wayne Clone",
-                "x": 5,
-                "y": 5,
+                "x": 1,
+                "y": 4,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2276,8 +2270,8 @@
             {
                 "id": 465,
                 "name": "Cheshire - Jade Nguyen",
-                "x": 6,
-                "y": 5,
+                "x": 2,
+                "y": 4,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2285,8 +2279,8 @@
             {
                 "id": 466,
                 "name": "Talia (Rebirth) - Talia Al Ghul",
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 4,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2294,8 +2288,8 @@
             {
                 "id": 468,
                 "name": "Batwoman - Kathy Kane",
-                "x": 9,
-                "y": 5,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -2304,8 +2298,8 @@
             {
                 "id": 469,
                 "name": "Archie - Unknown",
-                "x": 10,
-                "y": 5,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2313,8 +2307,8 @@
             {
                 "id": 470,
                 "name": "Joker's Biker 1 - Unknown",
-                "x": 1,
-                "y": 6,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2322,8 +2316,8 @@
             {
                 "id": 471,
                 "name": "Joker's Biker 2 - Unknown",
-                "x": 2,
-                "y": 6,
+                "x": 7,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2331,8 +2325,8 @@
             {
                 "id": 472,
                 "name": "Joker's Biker 3 - Unknown",
-                "x": 3,
-                "y": 6,
+                "x": 8,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2340,8 +2334,8 @@
             {
                 "id": 473,
                 "name": "Miranda Tate - Talia Al Ghul",
-                "x": 4,
-                "y": 6,
+                "x": 9,
+                "y": 4,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2349,8 +2343,8 @@
             {
                 "id": 474,
                 "name": "Barsad - Unknown",
-                "x": 5,
-                "y": 6,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "League of Assassins",
                     "Soldiers of Fortune"
@@ -2359,8 +2353,8 @@
             {
                 "id": 475,
                 "name": "Mercenary 1 - Unknown",
-                "x": 6,
-                "y": 6,
+                "x": 1,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins",
                     "Soldiers of Fortune"
@@ -2369,8 +2363,8 @@
             {
                 "id": 476,
                 "name": "Mercenary 2 - Unknown",
-                "x": 7,
-                "y": 6,
+                "x": 2,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins",
                     "Soldiers of Fortune"
@@ -2379,8 +2373,8 @@
             {
                 "id": 479,
                 "name": "Catwoman (Dark Knight Rises) - Selina Kyle",
-                "x": 10,
-                "y": 6,
+                "x": 3,
+                "y": 5,
                 "affiliations": [
                     "Bat Family",
                     "Unknown"
@@ -2389,8 +2383,8 @@
             {
                 "id": 481,
                 "name": "Agent 1 - Unknown",
-                "x": 2,
-                "y": 7,
+                "x": 4,
+                "y": 5,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2398,8 +2392,8 @@
             {
                 "id": 482,
                 "name": "Agent 2 - Unknown",
-                "x": 3,
-                "y": 7,
+                "x": 5,
+                "y": 5,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2407,8 +2401,8 @@
             {
                 "id": 483,
                 "name": "Agent 3 - Unknown",
-                "x": 4,
-                "y": 7,
+                "x": 6,
+                "y": 5,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2416,8 +2410,8 @@
             {
                 "id": 485,
                 "name": "The White Knight - Harvey Dent",
-                "x": 6,
-                "y": 7,
+                "x": 7,
+                "y": 5,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2425,8 +2419,8 @@
             {
                 "id": 486,
                 "name": "Two-Face (Dark Knight) - Harvey Dent",
-                "x": 7,
-                "y": 7,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2434,8 +2428,8 @@
             {
                 "id": 487,
                 "name": "Happy - Unknown",
-                "x": 8,
-                "y": 7,
+                "x": 9,
+                "y": 5,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2443,8 +2437,8 @@
             {
                 "id": 488,
                 "name": "Grumpy - Unknown",
-                "x": 9,
-                "y": 7,
+                "x": 10,
+                "y": 5,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2452,19 +2446,17 @@
             {
                 "id": 489,
                 "name": "Chuckles - Unknown",
-                "x": 10,
-                "y": 7,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
-            }
-        ],
-        "8": [
+            },
             {
                 "id": 490,
                 "name": "Joker's Bus Driver - Unknown",
-                "x": 1,
-                "y": 1,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2472,8 +2464,8 @@
             {
                 "id": 491,
                 "name": "Robin (Teen Titans) - Dick Grayson",
-                "x": 2,
-                "y": 1,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -2483,8 +2475,8 @@
             {
                 "id": 492,
                 "name": "Starfire (Teen Titans) - Koriand'r",
-                "x": 3,
-                "y": 1,
+                "x": 4,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Teen Titans"
@@ -2493,8 +2485,8 @@
             {
                 "id": 493,
                 "name": "Beast Boy (Teen Titans) - Garfield Mark Logan",
-                "x": 4,
-                "y": 1,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Doom Patrol",
@@ -2504,8 +2496,8 @@
             {
                 "id": 494,
                 "name": "Wonder Girl - Donna Troy",
-                "x": 5,
-                "y": 1,
+                "x": 6,
+                "y": 6,
                 "affiliations": [
                     "Amazons of Themyscira",
                     "Batman",
@@ -2515,8 +2507,8 @@
             {
                 "id": 495,
                 "name": "Dove - Dawn Granger",
-                "x": 6,
-                "y": 1,
+                "x": 7,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Birds of Prey",
@@ -2526,8 +2518,8 @@
             {
                 "id": 496,
                 "name": "Hawk - Hank Hall",
-                "x": 7,
-                "y": 1,
+                "x": 8,
+                "y": 6,
                 "affiliations": [
                     "Batman",
                     "Birds of Prey",
@@ -2537,8 +2529,8 @@
             {
                 "id": 497,
                 "name": "Bronze Tiger - Benjamin Turner",
-                "x": 8,
-                "y": 1,
+                "x": 9,
+                "y": 6,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -2547,8 +2539,8 @@
             {
                 "id": 501,
                 "name": "Kobra - Jeffrey Franklin Burr",
-                "x": 2,
-                "y": 2,
+                "x": 10,
+                "y": 6,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2556,8 +2548,8 @@
             {
                 "id": 502,
                 "name": "Kobra Bestowed - Unknown",
-                "x": 3,
-                "y": 2,
+                "x": 1,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2565,8 +2557,8 @@
             {
                 "id": 503,
                 "name": "Lady Eve - Eve",
-                "x": 4,
-                "y": 2,
+                "x": 2,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2574,8 +2566,8 @@
             {
                 "id": 504,
                 "name": "The Nagas - Unknown",
-                "x": 5,
-                "y": 2,
+                "x": 3,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2583,8 +2575,8 @@
             {
                 "id": 505,
                 "name": "Kobra Hybrid - Unknown",
-                "x": 6,
-                "y": 2,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2592,8 +2584,8 @@
             {
                 "id": 506,
                 "name": "Lancehead Captain - Unknown",
-                "x": 7,
-                "y": 2,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2601,8 +2593,8 @@
             {
                 "id": 507,
                 "name": "Lancehead Soldier - Unknown",
-                "x": 8,
-                "y": 2,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2610,8 +2602,8 @@
             {
                 "id": 508,
                 "name": "Cobra Swarm - Unknown",
-                "x": 9,
-                "y": 2,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2619,8 +2611,8 @@
             {
                 "id": 509,
                 "name": "Lancehead 1 - Unknown",
-                "x": 10,
-                "y": 2,
+                "x": 8,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2628,8 +2620,8 @@
             {
                 "id": 510,
                 "name": "Lancehead 2 - Unknonw",
-                "x": 1,
-                "y": 3,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2637,17 +2629,19 @@
             {
                 "id": 511,
                 "name": "Naga Hazard Trooper 1 - Unknown",
-                "x": 2,
-                "y": 3,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Cults"
                 ]
-            },
+            }
+        ],
+        "5": [
             {
                 "id": 512,
                 "name": "Naga Hazard Trooper 2 - Unknown",
-                "x": 3,
-                "y": 3,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Cults"
                 ]
@@ -2655,8 +2649,8 @@
             {
                 "id": 513,
                 "name": "Mahoney - Unknown",
-                "x": 4,
-                "y": 3,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2664,8 +2658,8 @@
             {
                 "id": 514,
                 "name": "1 Dollar - Unknown",
-                "x": 5,
-                "y": 3,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2673,8 +2667,8 @@
             {
                 "id": 515,
                 "name": "Li Holidays - Unknown",
-                "x": 6,
-                "y": 3,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -2682,8 +2676,8 @@
             {
                 "id": 516,
                 "name": "Tyrant - Unknown",
-                "x": 7,
-                "y": 3,
+                "x": 5,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -2691,8 +2685,8 @@
             {
                 "id": 517,
                 "name": "Big Sidekick - Unknown",
-                "x": 8,
-                "y": 3,
+                "x": 6,
+                "y": 1,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -2700,8 +2694,8 @@
             {
                 "id": 518,
                 "name": "Hayabusa - Unknown",
-                "x": 9,
-                "y": 3,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -2709,8 +2703,8 @@
             {
                 "id": 519,
                 "name": "Boogeyman - Johnny",
-                "x": 10,
-                "y": 3,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -2718,8 +2712,8 @@
             {
                 "id": 520,
                 "name": "That - Unknown",
-                "x": 1,
-                "y": 4,
+                "x": 9,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2727,8 +2721,8 @@
             {
                 "id": 521,
                 "name": "Bruce Wayne - Bruce Wayne",
-                "x": 2,
-                "y": 4,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -2737,8 +2731,8 @@
             {
                 "id": 522,
                 "name": "Matches Malone - Unknown",
-                "x": 3,
-                "y": 4,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2746,8 +2740,8 @@
             {
                 "id": 523,
                 "name": "Grifter - Cole Cash",
-                "x": 4,
-                "y": 4,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2755,8 +2749,8 @@
             {
                 "id": 524,
                 "name": "Street Demonz Biker 1 - Joe \"Viking\" Thompson",
-                "x": 5,
-                "y": 4,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2764,8 +2758,8 @@
             {
                 "id": 525,
                 "name": "Street Demonz Biker 2 - Jackson \"Fat\" Smith",
-                "x": 6,
-                "y": 4,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -2773,8 +2767,8 @@
             {
                 "id": 526,
                 "name": "The Chief - Niles Caulder",
-                "x": 7,
-                "y": 4,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Doom Patrol"
@@ -2783,8 +2777,8 @@
             {
                 "id": 527,
                 "name": "Elasti-Girl - Rita Starr",
-                "x": 8,
-                "y": 4,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Doom Patrol"
@@ -2793,8 +2787,8 @@
             {
                 "id": 528,
                 "name": "Crazy Jane - Kay Challis",
-                "x": 9,
-                "y": 4,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Doom Patrol"
@@ -2803,8 +2797,8 @@
             {
                 "id": 529,
                 "name": "Negative Man - Lawrence Michael Trainor",
-                "x": 10,
-                "y": 4,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Doom Patrol"
@@ -2813,8 +2807,8 @@
             {
                 "id": 530,
                 "name": "Robotman - Clifford Steele",
-                "x": 1,
-                "y": 5,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Doom Patrol"
@@ -2823,8 +2817,8 @@
             {
                 "id": 531,
                 "name": "Robin - Jason Todd",
-                "x": 2,
-                "y": 5,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -2834,8 +2828,8 @@
             {
                 "id": 532,
                 "name": "Bubastis - Bubastis",
-                "x": 3,
-                "y": 5,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Batman",
                     "Watchmen"
@@ -2844,8 +2838,8 @@
             {
                 "id": 533,
                 "name": "Joker (Red Hood) - Unknown",
-                "x": 4,
-                "y": 5,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2853,8 +2847,8 @@
             {
                 "id": 534,
                 "name": "Batman - Bruce Wayne",
-                "x": 5,
-                "y": 5,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -2863,8 +2857,8 @@
             {
                 "id": 535,
                 "name": "Commissioner Gordon - James W. Gordon",
-                "x": 6,
-                "y": 5,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2872,8 +2866,8 @@
             {
                 "id": 536,
                 "name": "Sgt. Harvey Bullock - Harvey Bullock",
-                "x": 7,
-                "y": 5,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2881,8 +2875,8 @@
             {
                 "id": 537,
                 "name": "Deadshot - Floyd Lawton",
-                "x": 8,
-                "y": 5,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -2891,8 +2885,8 @@
             {
                 "id": 538,
                 "name": "Harley Quinn - Dr. Harleen Frances Quinzel",
-                "x": 9,
-                "y": 5,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "Joker",
                     "Suicide Squad"
@@ -2901,8 +2895,8 @@
             {
                 "id": 539,
                 "name": "Joker - Unknown",
-                "x": 10,
-                "y": 5,
+                "x": 8,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -2910,8 +2904,8 @@
             {
                 "id": 540,
                 "name": "GCPD Detective - Unknown",
-                "x": 1,
-                "y": 6,
+                "x": 9,
+                "y": 3,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2919,8 +2913,8 @@
             {
                 "id": 541,
                 "name": "Officer Merkel - Stanley Merkel",
-                "x": 2,
-                "y": 6,
+                "x": 10,
+                "y": 3,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2928,8 +2922,8 @@
             {
                 "id": 542,
                 "name": "GCPD Cop 1 - Unknown",
-                "x": 3,
-                "y": 6,
+                "x": 1,
+                "y": 4,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2937,8 +2931,8 @@
             {
                 "id": 543,
                 "name": "GCPD Cop 2 - Unknown",
-                "x": 4,
-                "y": 6,
+                "x": 2,
+                "y": 4,
                 "affiliations": [
                     "Batman"
                 ]
@@ -2946,8 +2940,8 @@
             {
                 "id": 544,
                 "name": "Thug 1 - Unknown",
-                "x": 5,
-                "y": 6,
+                "x": 3,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2955,8 +2949,8 @@
             {
                 "id": 545,
                 "name": "Thug 2 - Unknown",
-                "x": 6,
-                "y": 6,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2964,8 +2958,8 @@
             {
                 "id": 546,
                 "name": "Thug 3 - Unknown",
-                "x": 7,
-                "y": 6,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2973,8 +2967,8 @@
             {
                 "id": 547,
                 "name": "Thug 4 - Unknown",
-                "x": 8,
-                "y": 6,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2982,8 +2976,8 @@
             {
                 "id": 548,
                 "name": "Thug 5 - Unknown",
-                "x": 9,
-                "y": 6,
+                "x": 7,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -2991,8 +2985,8 @@
             {
                 "id": 549,
                 "name": "Thug 6 - Unknown",
-                "x": 10,
-                "y": 6,
+                "x": 8,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3000,8 +2994,8 @@
             {
                 "id": 550,
                 "name": "Bane (The Bat) - Unknown",
-                "x": 1,
-                "y": 7,
+                "x": 9,
+                "y": 4,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -3009,8 +3003,8 @@
             {
                 "id": 551,
                 "name": "Joe Chill - Joseph Chilton",
-                "x": 2,
-                "y": 7,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3018,8 +3012,8 @@
             {
                 "id": 552,
                 "name": "Red Hood (Rebirth) - Jason Todd",
-                "x": 3,
-                "y": 7,
+                "x": 1,
+                "y": 5,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -3029,8 +3023,8 @@
             {
                 "id": 553,
                 "name": "Ubu - Unknown",
-                "x": 4,
-                "y": 7,
+                "x": 2,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -3038,8 +3032,8 @@
             {
                 "id": 554,
                 "name": "League Acolyte 1 - Unknown",
-                "x": 5,
-                "y": 7,
+                "x": 3,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -3047,8 +3041,8 @@
             {
                 "id": 555,
                 "name": "League Acolyte 2 - Unknown",
-                "x": 6,
-                "y": 7,
+                "x": 4,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -3056,8 +3050,8 @@
             {
                 "id": 556,
                 "name": "League Acolyte 3 - Unknown",
-                "x": 7,
-                "y": 7,
+                "x": 5,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -3065,8 +3059,8 @@
             {
                 "id": 557,
                 "name": "League Acolyte 4 - Unknown",
-                "x": 8,
-                "y": 7,
+                "x": 6,
+                "y": 5,
                 "affiliations": [
                     "League of Assassins"
                 ]
@@ -3074,8 +3068,8 @@
             {
                 "id": 558,
                 "name": "Oracle - Barbara Gordon",
-                "x": 9,
-                "y": 7,
+                "x": 7,
+                "y": 5,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -3086,22 +3080,20 @@
             {
                 "id": 559,
                 "name": "Katana (Rebirth) - Tatsu Yamashiro",
-                "x": 10,
-                "y": 7,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Batman",
                     "Birds of Prey",
                     "Suicide Squad",
                     "Team Arrow"
                 ]
-            }
-        ],
-        "9": [
+            },
             {
                 "id": 560,
                 "name": "Poison Ivy - Dr. Pamela Lillian Isley",
-                "x": 1,
-                "y": 1,
+                "x": 9,
+                "y": 5,
                 "affiliations": [
                     "Birds of Prey",
                     "Suicide Squad"
@@ -3110,8 +3102,8 @@
             {
                 "id": 561,
                 "name": "Frank the Plant - Frank",
-                "x": 2,
-                "y": 1,
+                "x": 10,
+                "y": 5,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -3119,8 +3111,8 @@
             {
                 "id": 562,
                 "name": "Black Canary - Dinah Lance",
-                "x": 3,
-                "y": 1,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey",
                     "Team Arrow"
@@ -3129,8 +3121,8 @@
             {
                 "id": 563,
                 "name": "Detective Montoya - Renee Montoya",
-                "x": 4,
-                "y": 1,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -3138,8 +3130,8 @@
             {
                 "id": 564,
                 "name": "Unknown - Cassandra Cain",
-                "x": 5,
-                "y": 1,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -3147,8 +3139,8 @@
             {
                 "id": 565,
                 "name": "Harley Quinn - Dr. Harleen Frances Quinzel",
-                "x": 6,
-                "y": 1,
+                "x": 4,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey",
                     "Suicide Squad"
@@ -3157,8 +3149,8 @@
             {
                 "id": 566,
                 "name": "Bruce the Hyena - Unknown",
-                "x": 7,
-                "y": 1,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -3166,8 +3158,8 @@
             {
                 "id": 567,
                 "name": "Huntress - Helena Bertinelli",
-                "x": 8,
-                "y": 1,
+                "x": 6,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Birds of Prey",
@@ -3177,8 +3169,8 @@
             {
                 "id": 568,
                 "name": "Kite-Man - Charles Brown",
-                "x": 9,
-                "y": 1,
+                "x": 7,
+                "y": 6,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3186,8 +3178,8 @@
             {
                 "id": 569,
                 "name": "Killer Moth - Drury Walker",
-                "x": 10,
-                "y": 1,
+                "x": 8,
+                "y": 6,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3195,8 +3187,8 @@
             {
                 "id": 570,
                 "name": "Batman (Frank Miller) - Bruce Wayne",
-                "x": 1,
-                "y": 2,
+                "x": 9,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -3205,8 +3197,8 @@
             {
                 "id": 573,
                 "name": "Robin - Carrie Kelley",
-                "x": 4,
-                "y": 2,
+                "x": 10,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -3214,8 +3206,8 @@
             {
                 "id": 574,
                 "name": "Green Arrow DKR - Oliver Queen",
-                "x": 5,
-                "y": 2,
+                "x": 1,
+                "y": 7,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -3224,8 +3216,8 @@
             {
                 "id": 575,
                 "name": "Son of Batman 1 - Unknown",
-                "x": 6,
-                "y": 2,
+                "x": 2,
+                "y": 7,
                 "affiliations": [
                     "Batman"
                 ]
@@ -3233,8 +3225,8 @@
             {
                 "id": 576,
                 "name": "Son of Batman 2 - Unknown",
-                "x": 7,
-                "y": 2,
+                "x": 3,
+                "y": 7,
                 "affiliations": [
                     "Batman"
                 ]
@@ -3242,8 +3234,8 @@
             {
                 "id": 577,
                 "name": "Son of Batman 3 - Unknown",
-                "x": 8,
-                "y": 2,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Batman"
                 ]
@@ -3251,8 +3243,8 @@
             {
                 "id": 578,
                 "name": "The Commissioner - James Gordon",
-                "x": 9,
-                "y": 2,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "The Batman Who Laughs"
                 ]
@@ -3260,8 +3252,8 @@
             {
                 "id": 579,
                 "name": "Psycho-Pirate - Roger Hayden",
-                "x": 10,
-                "y": 2,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3269,8 +3261,8 @@
             {
                 "id": 580,
                 "name": "The Batman Who Laughs - Bruce Wayne",
-                "x": 1,
-                "y": 3,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "The Batman Who Laughs",
                     "Unknown"
@@ -3279,8 +3271,8 @@
             {
                 "id": 581,
                 "name": "Damian Who Laughs - Damian Wayne",
-                "x": 2,
-                "y": 3,
+                "x": 8,
+                "y": 7,
                 "affiliations": [
                     "The Batman Who Laughs"
                 ]
@@ -3288,8 +3280,8 @@
             {
                 "id": 582,
                 "name": "Robin Who Laughs - Unknown",
-                "x": 3,
-                "y": 3,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "The Batman Who Laughs",
                     "Unknown"
@@ -3298,17 +3290,19 @@
             {
                 "id": 583,
                 "name": "Malicia - Malicia",
-                "x": 4,
-                "y": 3,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
-            },
+            }
+        ],
+        "6": [
             {
                 "id": 584,
                 "name": "Clock King - William Tockman",
-                "x": 5,
-                "y": 3,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3316,8 +3310,8 @@
             {
                 "id": 585,
                 "name": "Infiltrate OP - Claire",
-                "x": 6,
-                "y": 3,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -3325,8 +3319,8 @@
             {
                 "id": 586,
                 "name": "Deathstroke (The Terminator) - Slade Wilson",
-                "x": 7,
-                "y": 3,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "Suicide Squad",
                     "Team Arrow",
@@ -3336,8 +3330,8 @@
             {
                 "id": 587,
                 "name": "Gentleman Ghost - Jim Craddock",
-                "x": 8,
-                "y": 3,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3345,8 +3339,8 @@
             {
                 "id": 588,
                 "name": "Batman - Thomas Wayne",
-                "x": 9,
-                "y": 3,
+                "x": 5,
+                "y": 1,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -3354,8 +3348,8 @@
             {
                 "id": 589,
                 "name": "Calendar Man - Julian Gregory Day",
-                "x": 10,
-                "y": 3,
+                "x": 6,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3363,8 +3357,8 @@
             {
                 "id": 590,
                 "name": "Condiment King - Mitchell Mayo",
-                "x": 1,
-                "y": 4,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3372,8 +3366,8 @@
             {
                 "id": 591,
                 "name": "Leonard Hofstadter - Leonard Hofstadter",
-                "x": 2,
-                "y": 4,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "The Big Bang Theory"
                 ]
@@ -3381,8 +3375,8 @@
             {
                 "id": 592,
                 "name": "Sheldon Cooper - Sheldon Cooper",
-                "x": 3,
-                "y": 4,
+                "x": 9,
+                "y": 1,
                 "affiliations": [
                     "The Big Bang Theory"
                 ]
@@ -3390,8 +3384,8 @@
             {
                 "id": 593,
                 "name": "Penny - Penny",
-                "x": 4,
-                "y": 4,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "The Big Bang Theory"
                 ]
@@ -3399,8 +3393,8 @@
             {
                 "id": 594,
                 "name": "Howard Wolowitz - Howard Wolowitz",
-                "x": 5,
-                "y": 4,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "The Big Bang Theory"
                 ]
@@ -3408,8 +3402,8 @@
             {
                 "id": 595,
                 "name": "Rajesh Koothrappali - Rajesh Koothrappali",
-                "x": 6,
-                "y": 4,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "The Big Bang Theory"
                 ]
@@ -3417,8 +3411,8 @@
             {
                 "id": 596,
                 "name": "Zack Johnson - Zack Johnson",
-                "x": 7,
-                "y": 4,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "The Big Bang Theory"
                 ]
@@ -3426,8 +3420,8 @@
             {
                 "id": 597,
                 "name": "The Grim Knight - Bruce Wayne",
-                "x": 8,
-                "y": 4,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "The Batman Who Laughs",
                     "Unknown"
@@ -3436,8 +3430,8 @@
             {
                 "id": 598,
                 "name": "Hush - Thomas Elliot",
-                "x": 9,
-                "y": 4,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3445,8 +3439,8 @@
             {
                 "id": 599,
                 "name": "Two-Face - Harvey Dent",
-                "x": 10,
-                "y": 4,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3454,8 +3448,8 @@
             {
                 "id": 600,
                 "name": "Sugar - Unknown",
-                "x": 1,
-                "y": 5,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3463,8 +3457,8 @@
             {
                 "id": 601,
                 "name": "Spice - Unknown",
-                "x": 2,
-                "y": 5,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3472,8 +3466,8 @@
             {
                 "id": 602,
                 "name": "Gangster 1 - Tommy",
-                "x": 3,
-                "y": 5,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3481,8 +3475,8 @@
             {
                 "id": 603,
                 "name": "Gangster 2 - Malone",
-                "x": 4,
-                "y": 5,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3490,8 +3484,8 @@
             {
                 "id": 604,
                 "name": "Gangster 3 - Wallace",
-                "x": 5,
-                "y": 5,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3499,8 +3493,8 @@
             {
                 "id": 605,
                 "name": "Gangster 4 - Giuseppe",
-                "x": 6,
-                "y": 5,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3508,8 +3502,8 @@
             {
                 "id": 606,
                 "name": "Gangster 5 - Stone",
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3517,8 +3511,8 @@
             {
                 "id": 607,
                 "name": "Gangster 6 - Luigi",
-                "x": 8,
-                "y": 5,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3526,8 +3520,8 @@
             {
                 "id": 608,
                 "name": "Gangster 7 - Sergio",
-                "x": 9,
-                "y": 5,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -3535,8 +3529,8 @@
             {
                 "id": 609,
                 "name": "The Riddler - Edward Nigma",
-                "x": 10,
-                "y": 5,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Riddler",
                     "Suicide Squad"
@@ -3545,8 +3539,8 @@
             {
                 "id": 610,
                 "name": "Catwoman - Selina Kyle",
-                "x": 1,
-                "y": 6,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Unknown"
@@ -3555,8 +3549,8 @@
             {
                 "id": 611,
                 "name": "Red Robin - Tim Drake",
-                "x": 2,
-                "y": 6,
+                "x": 8,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -3566,8 +3560,8 @@
             {
                 "id": 612,
                 "name": "Quiz 6 - Charlie C.",
-                "x": 3,
-                "y": 6,
+                "x": 9,
+                "y": 3,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -3575,8 +3569,8 @@
             {
                 "id": 613,
                 "name": "Quiz 7 - Alex Orange",
-                "x": 4,
-                "y": 6,
+                "x": 10,
+                "y": 3,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -3584,8 +3578,8 @@
             {
                 "id": 614,
                 "name": "Quiz 8 - Finn O\u2019Farrell",
-                "x": 5,
-                "y": 6,
+                "x": 1,
+                "y": 4,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -3593,8 +3587,8 @@
             {
                 "id": 615,
                 "name": "The Court - Unknown",
-                "x": 6,
-                "y": 6,
+                "x": 2,
+                "y": 4,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -3602,8 +3596,8 @@
             {
                 "id": 616,
                 "name": "Polka-Dot Man - Abner Krill",
-                "x": 7,
-                "y": 6,
+                "x": 3,
+                "y": 4,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -3612,8 +3606,8 @@
             {
                 "id": 617,
                 "name": "Talon - Calvin Rose",
-                "x": 8,
-                "y": 6,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Batman",
                     "The Court of Owls"
@@ -3622,8 +3616,8 @@
             {
                 "id": 618,
                 "name": "Dementor - Unknown",
-                "x": 9,
-                "y": 6,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "The Court of Owls"
                 ]
@@ -3631,8 +3625,8 @@
             {
                 "id": 619,
                 "name": "KGBeast - Anatoli Knyazev",
-                "x": 10,
-                "y": 6,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -3641,8 +3635,8 @@
             {
                 "id": 620,
                 "name": "Raptor - Richard",
-                "x": 1,
-                "y": 7,
+                "x": 7,
+                "y": 4,
                 "affiliations": [
                     "Cults",
                     "The Court of Owls"
@@ -3651,8 +3645,8 @@
             {
                 "id": 621,
                 "name": "Batman (Adam West) - Bruce Wayne",
-                "x": 2,
-                "y": 7,
+                "x": 8,
+                "y": 4,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -3661,8 +3655,8 @@
             {
                 "id": 622,
                 "name": "Robin (Burt Ward) - Dick Grayson",
-                "x": 3,
-                "y": 7,
+                "x": 9,
+                "y": 4,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -3672,8 +3666,8 @@
             {
                 "id": 623,
                 "name": "Lieutenant Gordon (Year One) - James W. Gordon",
-                "x": 4,
-                "y": 7,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "Batman"
                 ]
@@ -3681,8 +3675,8 @@
             {
                 "id": 624,
                 "name": "Detective Flass (Year One) - Arnold Flass",
-                "x": 5,
-                "y": 7,
+                "x": 1,
+                "y": 5,
                 "affiliations": [
                     "Batman",
                     "Organized Crime"
@@ -3691,8 +3685,8 @@
             {
                 "id": 625,
                 "name": "Crazy Quilt - Paul Dekker",
-                "x": 6,
-                "y": 7,
+                "x": 2,
+                "y": 5,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3700,8 +3694,8 @@
             {
                 "id": 626,
                 "name": "Eraser - Leonard Fiasco",
-                "x": 7,
-                "y": 7,
+                "x": 3,
+                "y": 5,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3709,8 +3703,8 @@
             {
                 "id": 627,
                 "name": "Black Mask - Roman Sionis",
-                "x": 8,
-                "y": 7,
+                "x": 4,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3718,8 +3712,8 @@
             {
                 "id": 628,
                 "name": "Alexandra Kosov - Alexandra Kosov",
-                "x": 9,
-                "y": 7,
+                "x": 5,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3727,19 +3721,17 @@
             {
                 "id": 629,
                 "name": "Fright - Linda Friitawa",
-                "x": 10,
-                "y": 7,
+                "x": 6,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
-            }
-        ],
-        "10": [
+            },
             {
                 "id": 630,
                 "name": "Victor Zsasz - Victor Zsasz",
-                "x": 1,
-                "y": 1,
+                "x": 7,
+                "y": 5,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -3747,8 +3739,8 @@
             {
                 "id": 631,
                 "name": "Black Mask Thug 1 - Vigo Stoniskov",
-                "x": 2,
-                "y": 1,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3756,8 +3748,8 @@
             {
                 "id": 632,
                 "name": "Black Mask Thug 2 - Vassili Danilov",
-                "x": 3,
-                "y": 1,
+                "x": 9,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3765,8 +3757,8 @@
             {
                 "id": 633,
                 "name": "Black Mask Thug 3 - Nikita Filipov",
-                "x": 4,
-                "y": 1,
+                "x": 10,
+                "y": 5,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3774,8 +3766,8 @@
             {
                 "id": 634,
                 "name": "Black Mask Thug 4 - Koulikov Khrushchev",
-                "x": 5,
-                "y": 1,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3783,8 +3775,8 @@
             {
                 "id": 635,
                 "name": "Black Mask Thug 5 - Volodya Smirnov",
-                "x": 6,
-                "y": 1,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3792,8 +3784,8 @@
             {
                 "id": 636,
                 "name": "Black Mask Thug 6 - Vladimir Sokolov",
-                "x": 7,
-                "y": 1,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3801,8 +3793,8 @@
             {
                 "id": 637,
                 "name": "Black Mask Thug 7 - Yuri Ivanov",
-                "x": 8,
-                "y": 1,
+                "x": 4,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3810,8 +3802,8 @@
             {
                 "id": 638,
                 "name": "The Fixer - Yelena V\u00f3lkov",
-                "x": 9,
-                "y": 1,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -3819,8 +3811,8 @@
             {
                 "id": 639,
                 "name": "Joker (Cesar Romero) - Unknown",
-                "x": 10,
-                "y": 1,
+                "x": 6,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3828,8 +3820,8 @@
             {
                 "id": 640,
                 "name": "Batman (Year One) - Bruce Wayne",
-                "x": 1,
-                "y": 2,
+                "x": 7,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -3838,8 +3830,8 @@
             {
                 "id": 641,
                 "name": "Harley Thug 1 - Punker",
-                "x": 2,
-                "y": 2,
+                "x": 8,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3847,8 +3839,8 @@
             {
                 "id": 642,
                 "name": "Harley Thug 3 - Worker",
-                "x": 3,
-                "y": 2,
+                "x": 9,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3856,8 +3848,8 @@
             {
                 "id": 643,
                 "name": "Harley Thug 2 - Bragg",
-                "x": 4,
-                "y": 2,
+                "x": 10,
+                "y": 6,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3865,8 +3857,8 @@
             {
                 "id": 644,
                 "name": "Harley Quinn Gatling Brute - Unknown",
-                "x": 5,
-                "y": 2,
+                "x": 1,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3874,8 +3866,8 @@
             {
                 "id": 645,
                 "name": "Harley Thug 7 - Lumberjack",
-                "x": 6,
-                "y": 2,
+                "x": 2,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3883,8 +3875,8 @@
             {
                 "id": 646,
                 "name": "Harley Thug 6 - Chencho",
-                "x": 7,
-                "y": 2,
+                "x": 3,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3892,8 +3884,8 @@
             {
                 "id": 647,
                 "name": "Harley Thug 4 - Unknown",
-                "x": 8,
-                "y": 2,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3901,8 +3893,8 @@
             {
                 "id": 648,
                 "name": "Harley Thug 5 - Unknown",
-                "x": 9,
-                "y": 2,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "Joker"
                 ]
@@ -3910,8 +3902,8 @@
             {
                 "id": 649,
                 "name": "Green Arrow - Oliver Queen",
-                "x": 10,
-                "y": 2,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -3920,8 +3912,8 @@
             {
                 "id": 650,
                 "name": "Emperor Penguin - Ignatius Ogilvy",
-                "x": 1,
-                "y": 3,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3929,8 +3921,8 @@
             {
                 "id": 651,
                 "name": "Mr. Toxic - Hugh Marder",
-                "x": 2,
-                "y": 3,
+                "x": 8,
+                "y": 7,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3938,8 +3930,8 @@
             {
                 "id": 652,
                 "name": "Imperceptible Man - Unknown",
-                "x": 3,
-                "y": 3,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3947,17 +3939,19 @@
             {
                 "id": 653,
                 "name": "Hypnotic - Unknown",
-                "x": 4,
-                "y": 3,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Penguin"
                 ]
-            },
+            }
+        ],
+        "7": [
             {
                 "id": 654,
                 "name": "Mr. Combustible - Unknown",
-                "x": 5,
-                "y": 3,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3965,8 +3959,8 @@
             {
                 "id": 655,
                 "name": "Street Demonz Biker 3 - Serge \"Darky\" Powers",
-                "x": 6,
-                "y": 3,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3974,8 +3968,8 @@
             {
                 "id": 656,
                 "name": "The Penguin (Arkham Knight) - Oswald Chesterfield Cobblepot",
-                "x": 7,
-                "y": 3,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3983,8 +3977,8 @@
             {
                 "id": 657,
                 "name": "Street Demonz 1 - Grumble",
-                "x": 8,
-                "y": 3,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -3992,8 +3986,8 @@
             {
                 "id": 658,
                 "name": "Street Demonz 2 - Simmons",
-                "x": 9,
-                "y": 3,
+                "x": 5,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -4001,8 +3995,8 @@
             {
                 "id": 659,
                 "name": "Street Demonz 3 - Reaver",
-                "x": 10,
-                "y": 3,
+                "x": 6,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -4010,8 +4004,8 @@
             {
                 "id": 660,
                 "name": "Street Demonz 4 - Aaron \"Durum Killer\" Taylor",
-                "x": 1,
-                "y": 4,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "Penguin"
                 ]
@@ -4019,8 +4013,8 @@
             {
                 "id": 661,
                 "name": "Signalman - Phillip Cobb",
-                "x": 2,
-                "y": 4,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4028,8 +4022,8 @@
             {
                 "id": 662,
                 "name": "Punchline - Alexis Kaye",
-                "x": 3,
-                "y": 4,
+                "x": 9,
+                "y": 1,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4037,8 +4031,8 @@
             {
                 "id": 663,
                 "name": "Green Arrow - Oliver Queen",
-                "x": 4,
-                "y": 4,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "Batman",
                     "Team Arrow"
@@ -4047,8 +4041,8 @@
             {
                 "id": 664,
                 "name": "Black Canary - Dinah Lance",
-                "x": 5,
-                "y": 4,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "Batman",
                     "Birds of Prey",
@@ -4058,8 +4052,8 @@
             {
                 "id": 665,
                 "name": "Catwoman - Selina Kyle",
-                "x": 6,
-                "y": 4,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4067,8 +4061,8 @@
             {
                 "id": 666,
                 "name": "Catman - Thomas Reese Blake",
-                "x": 7,
-                "y": 4,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4076,8 +4070,8 @@
             {
                 "id": 667,
                 "name": "Bane (Unleashed) - Unknown",
-                "x": 8,
-                "y": 4,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
@@ -4085,8 +4079,8 @@
             {
                 "id": 668,
                 "name": "Harley Quinn (Bewitched) - Dr. Harleen Frances Quinzel",
-                "x": 9,
-                "y": 4,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4094,8 +4088,8 @@
             {
                 "id": 669,
                 "name": "Batgirl (Classic Costume) - Barbara Gordon",
-                "x": 10,
-                "y": 4,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -4106,8 +4100,8 @@
             {
                 "id": 670,
                 "name": "Nightwing (Rebirth) - Dick Grayson",
-                "x": 1,
-                "y": 5,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -4117,8 +4111,8 @@
             {
                 "id": 671,
                 "name": "Batman (Red Rain) - Bruce Wayne",
-                "x": 2,
-                "y": 5,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4126,8 +4120,8 @@
             {
                 "id": 672,
                 "name": "Mr. Freeze (Cryo-Armor) - Victor Fries",
-                "x": 3,
-                "y": 5,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4135,8 +4129,8 @@
             {
                 "id": 673,
                 "name": "Killer Frost (Rebirth) - Caitlin Snow",
-                "x": 4,
-                "y": 5,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Mr. Freeze",
                     "Suicide Squad"
@@ -4145,8 +4139,8 @@
             {
                 "id": 674,
                 "name": "Combat Polar Bear - Unknown",
-                "x": 5,
-                "y": 5,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4154,8 +4148,8 @@
             {
                 "id": 675,
                 "name": "Ranged Polar Bear - Unknown",
-                "x": 6,
-                "y": 5,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4163,8 +4157,8 @@
             {
                 "id": 676,
                 "name": "Freeze Thug 1 - Unknown",
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4172,8 +4166,8 @@
             {
                 "id": 677,
                 "name": "Freeze Thug 2 - Unknown",
-                "x": 8,
-                "y": 5,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4181,8 +4175,8 @@
             {
                 "id": 678,
                 "name": "Freeze Thug 3 - Unknown",
-                "x": 9,
-                "y": 5,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4190,8 +4184,8 @@
             {
                 "id": 679,
                 "name": "Freeze Thug 4 - Unknown",
-                "x": 10,
-                "y": 5,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4199,8 +4193,8 @@
             {
                 "id": 680,
                 "name": "Batman (Death Metal) - Bruce Wayne",
-                "x": 1,
-                "y": 6,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4209,8 +4203,8 @@
             {
                 "id": 681,
                 "name": "Alfred Pennyworth - Alfred Pennyworth",
-                "x": 2,
-                "y": 6,
+                "x": 8,
+                "y": 3,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4219,8 +4213,8 @@
             {
                 "id": 682,
                 "name": "Lobo (Paramilitary) - Unknown",
-                "x": 3,
-                "y": 6,
+                "x": 9,
+                "y": 3,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4228,8 +4222,8 @@
             {
                 "id": 683,
                 "name": "Joker (The Criminal) - Unknown",
-                "x": 4,
-                "y": 6,
+                "x": 10,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4237,8 +4231,8 @@
             {
                 "id": 684,
                 "name": "Joker (The Clown) - Unknown",
-                "x": 5,
-                "y": 6,
+                "x": 1,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4246,8 +4240,8 @@
             {
                 "id": 685,
                 "name": "Joker (The Comedian) - Unknown",
-                "x": 6,
-                "y": 6,
+                "x": 2,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4255,8 +4249,8 @@
             {
                 "id": 686,
                 "name": "Gaggy (Rebirth) - Unknown",
-                "x": 7,
-                "y": 6,
+                "x": 3,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4264,8 +4258,8 @@
             {
                 "id": 687,
                 "name": "Joker's Para-Military 1 - Unknown",
-                "x": 8,
-                "y": 6,
+                "x": 4,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4273,8 +4267,8 @@
             {
                 "id": 688,
                 "name": "Joker's Para-Military 2 - Unknown",
-                "x": 9,
-                "y": 6,
+                "x": 5,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4282,8 +4276,8 @@
             {
                 "id": 689,
                 "name": "Joker's Para-Military 3 - Unknown",
-                "x": 10,
-                "y": 6,
+                "x": 6,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4291,8 +4285,8 @@
             {
                 "id": 690,
                 "name": "Joker's Victim 1 - Unknown",
-                "x": 1,
-                "y": 7,
+                "x": 7,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4300,8 +4294,8 @@
             {
                 "id": 691,
                 "name": "Joker's Victim 2 - Unknown",
-                "x": 2,
-                "y": 7,
+                "x": 8,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4309,8 +4303,8 @@
             {
                 "id": 692,
                 "name": "Joker's Victim 3 - Unknown",
-                "x": 3,
-                "y": 7,
+                "x": 9,
+                "y": 4,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4318,8 +4312,8 @@
             {
                 "id": 693,
                 "name": "Peacemaker (The Suicide Squad) - Christopher Smith",
-                "x": 4,
-                "y": 7,
+                "x": 10,
+                "y": 4,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad"
@@ -4328,8 +4322,8 @@
             {
                 "id": 694,
                 "name": "Eagly - Eagly",
-                "x": 5,
-                "y": 7,
+                "x": 1,
+                "y": 5,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad"
@@ -4338,8 +4332,8 @@
             {
                 "id": 695,
                 "name": "Vigilante - Adrian Chase",
-                "x": 6,
-                "y": 7,
+                "x": 2,
+                "y": 5,
                 "affiliations": [
                     "Batman",
                     "Suicide Squad"
@@ -4348,8 +4342,8 @@
             {
                 "id": 696,
                 "name": "Ratcatcher 2 (The Suicide Squad) - Cleo Cazo",
-                "x": 7,
-                "y": 7,
+                "x": 3,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4358,8 +4352,8 @@
             {
                 "id": 697,
                 "name": "Harley Quinn (The Suicide Squad) - Dr. Harleen Frances Quinzel",
-                "x": 8,
-                "y": 7,
+                "x": 4,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4368,8 +4362,8 @@
             {
                 "id": 698,
                 "name": "King Shark (The Suicide Squad) - Nananue",
-                "x": 9,
-                "y": 7,
+                "x": 5,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4378,20 +4372,18 @@
             {
                 "id": 699,
                 "name": "Thinker (The Suicide Squad) - Gaius Grieves",
-                "x": 10,
-                "y": 7,
+                "x": 6,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
                 ]
-            }
-        ],
-        "11": [
+            },
             {
                 "id": 700,
                 "name": "Weasel (The Suicide Squad - Unknown",
-                "x": 1,
-                "y": 1,
+                "x": 7,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4400,8 +4392,8 @@
             {
                 "id": 701,
                 "name": "Polka-Dot Man (The Suicide Squad) - Abner Krill",
-                "x": 2,
-                "y": 1,
+                "x": 8,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4410,8 +4402,8 @@
             {
                 "id": 702,
                 "name": "T.D.K. (The Suicide Squad) - Cory Pitzner",
-                "x": 3,
-                "y": 1,
+                "x": 9,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4420,8 +4412,8 @@
             {
                 "id": 703,
                 "name": "Sebastian the Rat (The Suicide Squad) - Sebastian",
-                "x": 4,
-                "y": 1,
+                "x": 10,
+                "y": 5,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4430,8 +4422,8 @@
             {
                 "id": 704,
                 "name": "BloodSport (The Suicide Squad) - Robert DuBois",
-                "x": 5,
-                "y": 1,
+                "x": 1,
+                "y": 6,
                 "affiliations": [
                     "Suicide Squad",
                     "Unknown"
@@ -4440,8 +4432,8 @@
             {
                 "id": 705,
                 "name": "Batman (Viking) - Bruce Wayne",
-                "x": 6,
-                "y": 1,
+                "x": 2,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4450,8 +4442,8 @@
             {
                 "id": 706,
                 "name": "Ace - Ace",
-                "x": 7,
-                "y": 1,
+                "x": 3,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4460,8 +4452,8 @@
             {
                 "id": 707,
                 "name": "Batman (The Batman) - Bruce Wayne",
-                "x": 8,
-                "y": 1,
+                "x": 4,
+                "y": 6,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4470,8 +4462,8 @@
             {
                 "id": 708,
                 "name": "Lt. Gordon (The Batman) - James W. Gordon",
-                "x": 9,
-                "y": 1,
+                "x": 5,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4479,8 +4471,8 @@
             {
                 "id": 709,
                 "name": "Chief Mackenzie (The Batman) - Mackenzie Bock",
-                "x": 10,
-                "y": 1,
+                "x": 6,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4488,8 +4480,8 @@
             {
                 "id": 710,
                 "name": "Catwoman (The Batman) - Selina Kyle",
-                "x": 1,
-                "y": 2,
+                "x": 7,
+                "y": 6,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4497,8 +4489,8 @@
             {
                 "id": 711,
                 "name": "GCPD Mounted Cop - Unknown",
-                "x": 2,
-                "y": 2,
+                "x": 8,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4506,8 +4498,8 @@
             {
                 "id": 712,
                 "name": "GCPD Officer 1 - Unknown",
-                "x": 3,
-                "y": 2,
+                "x": 9,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4515,8 +4507,8 @@
             {
                 "id": 713,
                 "name": "Officer Martinez (The Batman) - Martinez",
-                "x": 4,
-                "y": 2,
+                "x": 10,
+                "y": 6,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4524,8 +4516,8 @@
             {
                 "id": 714,
                 "name": "GCPD Officer 2 - Unknown",
-                "x": 5,
-                "y": 2,
+                "x": 1,
+                "y": 7,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4533,8 +4525,8 @@
             {
                 "id": 715,
                 "name": "Carmine Falcone (The Batman) - Carmine Falcone",
-                "x": 6,
-                "y": 2,
+                "x": 2,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4542,8 +4534,8 @@
             {
                 "id": 716,
                 "name": "The Penguin (The Batman) - Oswald Chesterfield Cobblepot",
-                "x": 7,
-                "y": 2,
+                "x": 3,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4551,8 +4543,8 @@
             {
                 "id": 717,
                 "name": "Detective Kenzie (The Batman) - William Kenzie",
-                "x": 8,
-                "y": 2,
+                "x": 4,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4560,8 +4552,8 @@
             {
                 "id": 718,
                 "name": "The Twin 1 - Unknown",
-                "x": 9,
-                "y": 2,
+                "x": 5,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4569,8 +4561,8 @@
             {
                 "id": 719,
                 "name": "The Twin 2 - Unknown",
-                "x": 10,
-                "y": 2,
+                "x": 6,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4578,8 +4570,8 @@
             {
                 "id": 720,
                 "name": "Mafia Thug (The Batman) - Unknown",
-                "x": 1,
-                "y": 3,
+                "x": 7,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4587,8 +4579,8 @@
             {
                 "id": 721,
                 "name": "Bouncer 1 - Unknown",
-                "x": 2,
-                "y": 3,
+                "x": 8,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4596,8 +4588,8 @@
             {
                 "id": 722,
                 "name": "Bouncer 2 - Unknown",
-                "x": 3,
-                "y": 3,
+                "x": 9,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
@@ -4605,17 +4597,19 @@
             {
                 "id": 723,
                 "name": "Bouncer 3 - Unknown",
-                "x": 4,
-                "y": 3,
+                "x": 10,
+                "y": 7,
                 "affiliations": [
                     "Organized Crime"
                 ]
-            },
+            }
+        ],
+        "8": [
             {
                 "id": 724,
                 "name": "The Drifter (The Batman) - Bruce Wayne",
-                "x": 5,
-                "y": 3,
+                "x": 1,
+                "y": 1,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4624,8 +4618,8 @@
             {
                 "id": 725,
                 "name": "Azrael (God's Punishment) - Michael Washington Lane",
-                "x": 6,
-                "y": 3,
+                "x": 2,
+                "y": 1,
                 "affiliations": [
                     "Batman"
                 ]
@@ -4633,8 +4627,8 @@
             {
                 "id": 726,
                 "name": "Harley Quinn (Roller Derby) - Dr. Harleen Frances Quinzel",
-                "x": 7,
-                "y": 3,
+                "x": 3,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -4642,8 +4636,8 @@
             {
                 "id": 727,
                 "name": "Roller Derby Thug 1 - Unknown",
-                "x": 8,
-                "y": 3,
+                "x": 4,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -4651,8 +4645,8 @@
             {
                 "id": 728,
                 "name": "Roller Derby Thug 2 - Unknown",
-                "x": 9,
-                "y": 3,
+                "x": 5,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -4660,8 +4654,8 @@
             {
                 "id": 729,
                 "name": "Roller Derby Thug 3 - Unknown",
-                "x": 10,
-                "y": 3,
+                "x": 6,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -4669,8 +4663,8 @@
             {
                 "id": 730,
                 "name": "Roller Derby Thug 4 - Unknown",
-                "x": 1,
-                "y": 4,
+                "x": 7,
+                "y": 1,
                 "affiliations": [
                     "Birds of Prey"
                 ]
@@ -4678,8 +4672,8 @@
             {
                 "id": 731,
                 "name": "The Hitman - Maguire",
-                "x": 2,
-                "y": 4,
+                "x": 8,
+                "y": 1,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -4687,8 +4681,8 @@
             {
                 "id": 732,
                 "name": "Big John - Jonathan Miers",
-                "x": 3,
-                "y": 4,
+                "x": 9,
+                "y": 1,
                 "affiliations": [
                     "Two-Face"
                 ]
@@ -4696,8 +4690,8 @@
             {
                 "id": 733,
                 "name": "Mr. Camera - Harry Simms",
-                "x": 4,
-                "y": 4,
+                "x": 10,
+                "y": 1,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4705,8 +4699,8 @@
             {
                 "id": 734,
                 "name": "Batman (Classic) - Bruce Wayne",
-                "x": 5,
-                "y": 4,
+                "x": 1,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman"
@@ -4715,8 +4709,8 @@
             {
                 "id": 735,
                 "name": "Robin (Classic) - Dick Grayson",
-                "x": 6,
-                "y": 4,
+                "x": 2,
+                "y": 2,
                 "affiliations": [
                     "Bat Family",
                     "Batman",
@@ -4726,8 +4720,8 @@
             {
                 "id": 736,
                 "name": "Mrs. Freeze - Nora Fries",
-                "x": 7,
-                "y": 4,
+                "x": 3,
+                "y": 2,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4735,8 +4729,8 @@
             {
                 "id": 737,
                 "name": "Freeze Thug 5 - Seamus O'Farrell",
-                "x": 8,
-                "y": 4,
+                "x": 4,
+                "y": 2,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4744,8 +4738,8 @@
             {
                 "id": 738,
                 "name": "Freeze Engineer - Unknown",
-                "x": 9,
-                "y": 4,
+                "x": 5,
+                "y": 2,
                 "affiliations": [
                     "Mr. Freeze"
                 ]
@@ -4753,8 +4747,8 @@
             {
                 "id": 739,
                 "name": "The Riddler (The Batman) - Edward Nigma",
-                "x": 10,
-                "y": 4,
+                "x": 6,
+                "y": 2,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -4762,8 +4756,8 @@
             {
                 "id": 740,
                 "name": "The Riddler's Follower 1 - Unknown",
-                "x": 1,
-                "y": 5,
+                "x": 7,
+                "y": 2,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -4771,8 +4765,8 @@
             {
                 "id": 741,
                 "name": "The Riddler's Follower 2 - Unknown",
-                "x": 2,
-                "y": 5,
+                "x": 8,
+                "y": 2,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -4780,8 +4774,8 @@
             {
                 "id": 742,
                 "name": "The Riddler's Follower 3 - Unknown",
-                "x": 3,
-                "y": 5,
+                "x": 9,
+                "y": 2,
                 "affiliations": [
                     "Riddler"
                 ]
@@ -4789,8 +4783,8 @@
             {
                 "id": 743,
                 "name": "Calculator - Noah Kuttler",
-                "x": 4,
-                "y": 5,
+                "x": 10,
+                "y": 2,
                 "affiliations": [
                     "Unknown"
                 ]
@@ -4798,8 +4792,8 @@
             {
                 "id": 744,
                 "name": "Gas Puppet 1 - Unknown",
-                "x": 5,
-                "y": 5,
+                "x": 1,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4807,8 +4801,8 @@
             {
                 "id": 745,
                 "name": "Gas Puppet 2 - Unknown",
-                "x": 6,
-                "y": 5,
+                "x": 2,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4816,8 +4810,8 @@
             {
                 "id": 746,
                 "name": "Gas Puppet 3 - Unknown",
-                "x": 7,
-                "y": 5,
+                "x": 3,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4825,8 +4819,8 @@
             {
                 "id": 747,
                 "name": "Street Jester 1 - Unknown",
-                "x": 8,
-                "y": 5,
+                "x": 4,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4834,8 +4828,8 @@
             {
                 "id": 748,
                 "name": "Street Jester 2 - Unknown",
-                "x": 9,
-                "y": 5,
+                "x": 5,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4843,8 +4837,8 @@
             {
                 "id": 749,
                 "name": "Street Jester 3 - Unknown",
-                "x": 10,
-                "y": 5,
+                "x": 6,
+                "y": 3,
                 "affiliations": [
                     "Joker"
                 ]
@@ -4852,10 +4846,201 @@
             {
                 "id": 750,
                 "name": "Street Jester 4 - Unknown",
-                "x": 1,
-                "y": 6,
+                "x": 7,
+                "y": 3,
                 "affiliations": [
                     "Joker"
+                ]
+            },
+            {
+                "id": 751,
+                "name": "Deacon Blackfire - Joseph Blackfire",
+                "x": 8,
+                "y": 3,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 752,
+                "name": "Jake - Jake Baker",
+                "x": 9,
+                "y": 3,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 753,
+                "name": "Young Woman - Sally",
+                "x": 10,
+                "y": 3,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 754,
+                "name": "Ratface - Unknown",
+                "x": 1,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 755,
+                "name": "Underworlder 1 - Unknown",
+                "x": 2,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 756,
+                "name": "Underworlder 2 - Unknown",
+                "x": 3,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 757,
+                "name": "Underworlder 3 - Unknown",
+                "x": 4,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 758,
+                "name": "Underworlder 4 - Unknown",
+                "x": 5,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 759,
+                "name": "Underworlder 5 - Unknown",
+                "x": 6,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 760,
+                "name": "Underworlder 6 - Unknown",
+                "x": 7,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 761,
+                "name": "Underworlder Vagon 1 - Unknown",
+                "x": 8,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 762,
+                "name": "Underworlder Vagon 2 - Unknown",
+                "x": 9,
+                "y": 4,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 763,
+                "name": "Harley Quinn (Arkham Asylum) - Dr. Harleen Frances Quinzel",
+                "x": 10,
+                "y": 4,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 764,
+                "name": "The Penguin (Arkham City) - Oswald Chesterfield Cobblepot",
+                "x": 1,
+                "y": 5,
+                "affiliations": [
+                    "Penguin"
+                ]
+            },
+            {
+                "id": 765,
+                "name": "Scarecrow (Arkham Asylum) - Jonathan Crane",
+                "x": 2,
+                "y": 5,
+                "affiliations": [
+                    "Unknown"
+                ]
+            },
+            {
+                "id": 766,
+                "name": "Two-Face (Arkham City) - Harvey Dent",
+                "x": 3,
+                "y": 5,
+                "affiliations": [
+                    "Two-Face"
+                ]
+            },
+            {
+                "id": 767,
+                "name": "Batman on Bike (The Batman) - Bruce Wayne",
+                "x": 4,
+                "y": 5,
+                "affiliations": [
+                    "Bat Family",
+                    "Batman"
+                ]
+            },
+            {
+                "id": 768,
+                "name": "Bane (Titan) - Unknown",
+                "x": 5,
+                "y": 5,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 769,
+                "name": "Batman (The Cult) - Bruce Wayne",
+                "x": 6,
+                "y": 5,
+                "affiliations": [
+                    "Cults"
+                ]
+            },
+            {
+                "id": 770,
+                "name": "Joker (Titan) - Unknown",
+                "x": 7,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 771,
+                "name": "Killer Croc (Arkham Asylum) - Waylon Jones",
+                "x": 8,
+                "y": 5,
+                "affiliations": [
+                    "Suicide Squad",
+                    "Unknown"
                 ]
             }
         ]
@@ -4887,48 +5072,36 @@
     ],
     "sheets": {
         "1": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171884719/B993E95A54B82F470102AA0CEB4F4B4A1E783FEE/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674533906/B6470212229EE0A74DB3C83250AB7FBC96F1DCCD/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116512874/F2A97EC51F802572E02E802D4CB893AEBE1A3B30/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116512111/FEC40768CE04BB874BA7B0BFAF1041B6F074CEC9/"
         },
         "2": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171885938/ACADF9B6097D173784DDF800358F653C4C88290C/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674534776/371356BEF31BB13114350A33B8B19A19D61F1A5A/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116514427/23BE492251B295EF3FD0985D13B72048798D36B4/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116513502/529B80C7263E455F96E67BDE793B85F329560D70/"
         },
         "3": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171887279/CD998ACE28F43E3F4A71AEE1A8471B63FE19E0EC/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674536377/0197A41757BC8C634B9A61A2B1D6E8B7E5600DE9/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116515963/AF2CC2FD3E3AF5A35C8AE4D9B8D6E70BBB71092F/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116515222/F3329400316BFB65AADE7EF629C4B6E61F5CD59C/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171888234/E92F4451853B3008C2440DEC1FFECD253B4B2371/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674537789/9A8645B27A41004A449DA637C162BAABCC0762E5/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116517067/FE83F36E4FD7364C2F7402FDB509016DFA2F47D9/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116516472/FAC097392D0B9DE4680E8627E2C4E3D27D59A0C4/"
         },
         "5": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171889338/0BADD5072F70492970B022309A42EF7755135F3B/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1742350804834158825/F7191A34CCAFFBC0D0C725572679B26A8486A0DB/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116518282/9B930D6FB642130F3AF2D2D43B4CBB90D3F8C79A/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116517641/77D6C634C62487AAFA99A3839A3098432ADDDC3A/"
         },
         "6": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171890344/3D894A1239D2E24741F9648AE574788763BD5A43/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674538720/191A58A519060679E43B43879D634A9CE26D7037/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116519755/6B24243F29795BDD7F799758AC0E27B5B68BFBB4/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116518913/DA9C9833EAD1CCA4F2F1BF9AB3B935ABBF030637/"
         },
         "7": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171892300/53B2B7D1A36CD372F053F9FB25BE64D702D1EAC9/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674539817/5C7EF2D7F672FE2D3D13CA2EFC692FECAA60C782/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116521374/0D9255BE1BD9B1A5B682A3CFD36E39F221BBFE92/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116520494/14C2FDAE6F3E84B4DB905C52DFAA8636E56CD79F/"
         },
         "8": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171895113/CA5E0906CE2C3B80F08DFF1EDAF75A96ADD46777/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674540946/9373840FC9CA41B7718ED84CB26DCF02298EC3A6/"
-        },
-        "9": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171897795/A20394D9655B73F82492E377CDC4515DEE011838/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674542426/915AC62FB0A70BAC48AB2A90E176B40CEA1D407B/"
-        },
-        "10": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171901182/18BBA5B0269DC892B6EAD97642A211D89724CA79/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1840306218674545566/5184505DBB8695BC6689BC434E95E0C20B5CE5F7/"
-        },
-        "11": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1854944634171905613/F9E09FAA54D1D0883104DA79147F3BE65C392B27/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1854944634171904018/2AA87C469DEE662D5168E72F996CEED0DA543CD4/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116522065/54B09A114C902109939C552D3E00B04BAC8B20EB/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116522065/54B09A114C902109939C552D3E00B04BAC8B20EB/"
         }
     }
 }
