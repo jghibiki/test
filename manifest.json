@@ -878,7 +878,7 @@
             },
             {
                 "id": 208,
-                "name": "Militia Lieutenant - Ross",
+                "name": "Lieutenant Op - Ross",
                 "x": 4,
                 "y": 3,
                 "affiliations": [
@@ -887,7 +887,7 @@
             },
             {
                 "id": 209,
-                "name": "Militia Medic - Dillon",
+                "name": "Medic Op - Dillon",
                 "x": 5,
                 "y": 3,
                 "affiliations": [
@@ -5042,6 +5042,123 @@
                     "Suicide Squad",
                     "Unknown"
                 ]
+            },
+            {
+                "id": 772,
+                "name": "Joker - Unknown",
+                "x": 9,
+                "y": 5,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 773,
+                "name": "Floronic Man - Jason Woodrue",
+                "x": 10,
+                "y": 5,
+                "affiliations": [
+                    "Birds of Prey"
+                ]
+            },
+            {
+                "id": 774,
+                "name": "Rabid Plant 1 - Unknown",
+                "x": 1,
+                "y": 6,
+                "affiliations": [
+                    "Birds of Prey"
+                ]
+            },
+            {
+                "id": 775,
+                "name": "Rabid Plant 2 - Unknown",
+                "x": 2,
+                "y": 6,
+                "affiliations": [
+                    "Birds of Prey"
+                ]
+            },
+            {
+                "id": 776,
+                "name": "MacGregor - Unknown",
+                "x": 3,
+                "y": 6,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 777,
+                "name": "Smash - Unknown",
+                "x": 4,
+                "y": 6,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 778,
+                "name": "Ted Hunter - Unknown",
+                "x": 5,
+                "y": 6,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 779,
+                "name": "Aaron Cash - Aaron Cash",
+                "x": 6,
+                "y": 6,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 780,
+                "name": "SWAT QRT 1 - Unknown",
+                "x": 7,
+                "y": 6,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 781,
+                "name": "SWAT QRT 2 - Unknown",
+                "x": 8,
+                "y": 6,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 782,
+                "name": "SWAT QRT 3 - Unknown",
+                "x": 9,
+                "y": 6,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 783,
+                "name": "Attorney Harvey Dent - Harvey Dent",
+                "x": 10,
+                "y": 6,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 784,
+                "name": "Gilda Dent - Gilda Dent",
+                "x": 1,
+                "y": 7,
+                "affiliations": [
+                    "Batman"
+                ]
             }
         ]
     },
@@ -5072,36 +5189,36 @@
     ],
     "sheets": {
         "1": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116512874/F2A97EC51F802572E02E802D4CB893AEBE1A3B30/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116512111/FEC40768CE04BB874BA7B0BFAF1041B6F074CEC9/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844802529/06148465FCE3CC6D08F885099202857F22AB6B46/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844801775/41ABD49F796B70AF1B091ED868F760F93D71E82B/"
         },
         "2": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116514427/23BE492251B295EF3FD0985D13B72048798D36B4/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116513502/529B80C7263E455F96E67BDE793B85F329560D70/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844803973/AC28E592538F1CB6CBB82DCF2D6115A6379AACA1/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844803081/39E3809E9B5199A135EDECD4D90D23CCC6170C54/"
         },
         "3": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116515963/AF2CC2FD3E3AF5A35C8AE4D9B8D6E70BBB71092F/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844804573/1C4566CD122D400CF02F46C3CB719F46AA3815E0/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116515222/F3329400316BFB65AADE7EF629C4B6E61F5CD59C/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116517067/FE83F36E4FD7364C2F7402FDB509016DFA2F47D9/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844805074/33C6353C831B6CFC976D15874A770E58C6A4E775/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116516472/FAC097392D0B9DE4680E8627E2C4E3D27D59A0C4/"
         },
         "5": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116518282/9B930D6FB642130F3AF2D2D43B4CBB90D3F8C79A/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844805610/2A163544E67487C84C3FA37B0D87B78B7C0D7E36/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116517641/77D6C634C62487AAFA99A3839A3098432ADDDC3A/"
         },
         "6": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116519755/6B24243F29795BDD7F799758AC0E27B5B68BFBB4/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116518913/DA9C9833EAD1CCA4F2F1BF9AB3B935ABBF030637/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844806794/E7C703E18148DD02518EE6FE7CCE657FCDC6CFC3/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844806087/BD46D905776CC223199AB4F0C79619ABE1E29525/"
         },
         "7": {
             "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116521374/0D9255BE1BD9B1A5B682A3CFD36E39F221BBFE92/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116520494/14C2FDAE6F3E84B4DB905C52DFAA8636E56CD79F/"
         },
         "8": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116522649/9B375F860B7CE1CF73740C4817F5F3412EDB9389/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116522065/54B09A114C902109939C552D3E00B04BAC8B20EB/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844808026/E3F5F76C541C19AD8844D8BB064CBF878ACED741/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844807398/E7FCBB0D64AD19D3E82C9873EBE690BAEBF5C01A/"
         }
     }
 }
