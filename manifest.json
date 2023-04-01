@@ -5159,6 +5159,98 @@
                 "affiliations": [
                     "Batman"
                 ]
+            },
+            {
+                "id": 785,
+                "name": "Scarecrow (The Worst Nightmare) - Jonathan Crane",
+                "x": 2,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 786,
+                "name": "Dr. Friitawa - Linda Friitawa",
+                "x": 3,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 787,
+                "name": "Dr. Hugo Strange - Hugo Strange",
+                "x": 4,
+                "y": 7,
+                "affiliations": [
+                    "Unknown"
+                ]
+            },
+            {
+                "id": 788,
+                "name": "Nightmare of Fear - Unknown",
+                "x": 5,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 789,
+                "name": "Nightmare of Demotivation - Unknown",
+                "x": 6,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 790,
+                "name": "Nightmare of Anger - Unknown",
+                "x": 7,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 791,
+                "name": "Nightmare of Insignificance - Unknown",
+                "x": 8,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 792,
+                "name": "Fearbeast Nightmare - Unknown",
+                "x": 9,
+                "y": 7,
+                "affiliations": [
+                    "Scarecrow"
+                ]
+            },
+            {
+                "id": 794,
+                "name": "Arkham Assistant 1 - Unknown",
+                "x": 10,
+                "y": 7,
+                "affiliations": [
+                    "Unknown"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "id": 795,
+                "name": "Arkham Assistant 2 - Unknown",
+                "x": 1,
+                "y": 1,
+                "affiliations": [
+                    "Unknown"
+                ]
             }
         ]
     },
@@ -5185,40 +5277,45 @@
         "The Court of Owls",
         "Two-Face",
         "Unknown",
-        "Watchmen"
+        "Watchmen",
+        "Scarecrow"
     ],
     "sheets": {
         "1": {
             "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844802529/06148465FCE3CC6D08F885099202857F22AB6B46/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844801775/41ABD49F796B70AF1B091ED868F760F93D71E82B/"
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182901833/21D5A78EBFFE9198B99CF93CC9E6E249156BAB4B/"
         },
         "2": {
             "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844803973/AC28E592538F1CB6CBB82DCF2D6115A6379AACA1/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844803081/39E3809E9B5199A135EDECD4D90D23CCC6170C54/"
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182902627/998518A3E6C4BF84F3AB27DB349B89ED98E932A5/"
         },
         "3": {
             "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844804573/1C4566CD122D400CF02F46C3CB719F46AA3815E0/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116515222/F3329400316BFB65AADE7EF629C4B6E61F5CD59C/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844805074/33C6353C831B6CFC976D15874A770E58C6A4E775/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116516472/FAC097392D0B9DE4680E8627E2C4E3D27D59A0C4/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182904272/D687DEFE6F520EAFBD68A382C7F36329919F5104/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182903563/CAA9CB47D20B9B6AF30F1805E19E64F9F2FDC709/"
         },
         "5": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844805610/2A163544E67487C84C3FA37B0D87B78B7C0D7E36/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116517641/77D6C634C62487AAFA99A3839A3098432ADDDC3A/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182906564/DD23672D38A126261D7B4D771334397C342CCF86/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182905825/6E33C6990E245F979A4160AE77B453345937D501/"
         },
         "6": {
             "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844806794/E7C703E18148DD02518EE6FE7CCE657FCDC6CFC3/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844806087/BD46D905776CC223199AB4F0C79619ABE1E29525/"
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182907153/ABCCB6DFD93649F93AF3ED838021268FDC18F573/"
         },
         "7": {
             "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116521374/0D9255BE1BD9B1A5B682A3CFD36E39F221BBFE92/",
             "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116520494/14C2FDAE6F3E84B4DB905C52DFAA8636E56CD79F/"
         },
         "8": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844808026/E3F5F76C541C19AD8844D8BB064CBF878ACED741/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2041858061844807398/E7FCBB0D64AD19D3E82C9873EBE690BAEBF5C01A/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182909445/F45967F401D31267B4C7D9BDBCE02D9129987E53/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182908441/6B79CC7F438F062D63C92F0174633C49B7026D44/"
+        },
+        "9": {
+            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182910450/3477F08987C17085F15018615819FA2CE7A540AF/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182910346/AD0C365C4EB7F2E058EF89812AA782C259B79D0A/"
         }
     }
 }
