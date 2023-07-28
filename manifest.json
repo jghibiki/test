@@ -1170,8 +1170,7 @@
                 "x": 5,
                 "y": 6,
                 "affiliations": [
-                    "Suicide Squad",
-                    "Unknown"
+                    "Suicide Squad"
                 ]
             },
             {
@@ -2224,7 +2223,7 @@
             },
             {
                 "id": 460,
-                "name": "Hassassin 1 - Unknown",
+                "name": "Hasssasin 1 - Unknown",
                 "x": 7,
                 "y": 3,
                 "affiliations": [
@@ -2233,7 +2232,7 @@
             },
             {
                 "id": 461,
-                "name": "Hassassin 2 - Unknown",
+                "name": "Hasssasin 2 - Unknown",
                 "x": 8,
                 "y": 3,
                 "affiliations": [
@@ -2242,7 +2241,7 @@
             },
             {
                 "id": 462,
-                "name": "Hassassin 3 - Unknown",
+                "name": "Hasssasin 3 - Unknown",
                 "x": 9,
                 "y": 3,
                 "affiliations": [
@@ -2251,7 +2250,7 @@
             },
             {
                 "id": 463,
-                "name": "Hassassin 4 - Unknown",
+                "name": "Hasssasin 4 - Unknown",
                 "x": 10,
                 "y": 3,
                 "affiliations": [
@@ -2484,7 +2483,7 @@
             },
             {
                 "id": 493,
-                "name": "Beast Boy (Teen Titans) - Garfield Mark Logan",
+                "name": "Beast Boy - Human (Teen Titans) - Garfield Mark Logan",
                 "x": 5,
                 "y": 6,
                 "affiliations": [
@@ -3264,8 +3263,7 @@
                 "x": 7,
                 "y": 7,
                 "affiliations": [
-                    "The Batman Who Laughs",
-                    "Unknown"
+                    "The Batman Who Laughs"
                 ]
             },
             {
@@ -3423,8 +3421,7 @@
                 "x": 4,
                 "y": 2,
                 "affiliations": [
-                    "The Batman Who Laughs",
-                    "Unknown"
+                    "The Batman Who Laughs"
                 ]
             },
             {
@@ -5251,6 +5248,134 @@
                 "affiliations": [
                     "Unknown"
                 ]
+            },
+            {
+                "id": 796,
+                "name": "Red Hood (The Outlaw) - Jason Todd",
+                "x": 2,
+                "y": 1,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 797,
+                "name": "Vengeance - Unknown",
+                "x": 3,
+                "y": 1,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 798,
+                "name": "Bird (Classic) - Angel Vallelunga",
+                "x": 4,
+                "y": 1,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 799,
+                "name": "The Builder - Adam Schnauzer",
+                "x": 5,
+                "y": 1,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 800,
+                "name": "Red Bastard - Ernesto Machado",
+                "x": 6,
+                "y": 1,
+                "affiliations": [
+                    "Soldiers of Fortune"
+                ]
+            },
+            {
+                "id": 801,
+                "name": "Batman (Bushi) - Bruce Wayne",
+                "x": 7,
+                "y": 1,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 802,
+                "name": "Ten-Eyed Man - Philip Reardon",
+                "x": 8,
+                "y": 1,
+                "affiliations": [
+                    "Unknown"
+                ]
+            },
+            {
+                "id": 803,
+                "name": "Batman (Batman) - Bruce Wayne",
+                "x": 9,
+                "y": 1,
+                "affiliations": [
+                    "Bat Family",
+                    "Batman"
+                ]
+            },
+            {
+                "id": 804,
+                "name": "The Penguin (Batman Returns) - Oswald Chesterfield Cobblepot",
+                "x": 10,
+                "y": 1,
+                "affiliations": [
+                    "Penguin"
+                ]
+            },
+            {
+                "id": 806,
+                "name": "Catwoman (Batman Returns) - Selina Kyle",
+                "x": 1,
+                "y": 2,
+                "affiliations": [
+                    "Batman",
+                    "Penguin"
+                ]
+            },
+            {
+                "id": 807,
+                "name": "Beast Boy - Gorilla (Teen Titans) - Unknown",
+                "x": 2,
+                "y": 2,
+                "affiliations": [
+                    "Teen Titans"
+                ]
+            },
+            {
+                "id": 808,
+                "name": "Beast Boy - Hawk (Teen Titans) - Unknown",
+                "x": 3,
+                "y": 2,
+                "affiliations": [
+                    "Teen Titans"
+                ]
+            },
+            {
+                "id": 809,
+                "name": "Beast Boy - Tiger (Teen Titans) - Unknown",
+                "x": 4,
+                "y": 2,
+                "affiliations": [
+                    "Teen Titans"
+                ]
+            },
+            {
+                "id": 810,
+                "name": "Infected Who Laughs - Unknown",
+                "x": 5,
+                "y": 2,
+                "affiliations": [
+                    "The Batman Who Laughs"
+                ]
             }
         ]
     },
@@ -5282,40 +5407,40 @@
     ],
     "sheets": {
         "1": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844802529/06148465FCE3CC6D08F885099202857F22AB6B46/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182901833/21D5A78EBFFE9198B99CF93CC9E6E249156BAB4B/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046163683/E62BCF8AF2CF12A5D368BFF556D5E04A23AF47BE/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046162981/80513CD7EAEC0776872EBD0A96A3F805917A8714/"
         },
         "2": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844803973/AC28E592538F1CB6CBB82DCF2D6115A6379AACA1/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182902627/998518A3E6C4BF84F3AB27DB349B89ED98E932A5/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046164836/FE7866E2B8CD05454EFBC12783968FF2BDA6EEA0/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046164168/0453AEE412D3964903360E7E4BFAE06415EEA31F/"
         },
         "3": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844804573/1C4566CD122D400CF02F46C3CB719F46AA3815E0/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116515222/F3329400316BFB65AADE7EF629C4B6E61F5CD59C/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046166101/CD3365B26A2EEAD9AA0C873D9D341F48F4D827CD/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046165381/77BD5391A471E4AD7E8594FDBD9D70B221388B54/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182904272/D687DEFE6F520EAFBD68A382C7F36329919F5104/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182903563/CAA9CB47D20B9B6AF30F1805E19E64F9F2FDC709/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046167500/19713888C577F28212B64D2547DD5E0FA90173B1/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046166580/8DA40B4F4D1EEAC3A94F0FA4CE692D607306B8D5/"
         },
         "5": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182906564/DD23672D38A126261D7B4D771334397C342CCF86/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182905825/6E33C6990E245F979A4160AE77B453345937D501/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046168057/F50454619C512E31761DD64F2A48E65F065637B7/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046168669/8010C9FEC733B414E1E458C9CF4C92D8EB79AF2F/"
         },
         "6": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2041858061844806794/E7C703E18148DD02518EE6FE7CCE657FCDC6CFC3/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182907153/ABCCB6DFD93649F93AF3ED838021268FDC18F573/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046169935/674F626669F870C37A32B9386B31B6CF032C48DE/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046169270/B8FA26507206716F934B1581BB4EB4A2E999512A/"
         },
         "7": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/1978798064116521374/0D9255BE1BD9B1A5B682A3CFD36E39F221BBFE92/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/1978798064116520494/14C2FDAE6F3E84B4DB905C52DFAA8636E56CD79F/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046171717/66F9049063573DB4C3B35AE64D8C08E32A375A19/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046170691/D235F69FCCDF75ACED6BE302D0C4AE6B8625BA64/"
         },
         "8": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182909445/F45967F401D31267B4C7D9BDBCE02D9129987E53/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182908441/6B79CC7F438F062D63C92F0174633C49B7026D44/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046172953/3E6727421AC8115B864BD45CB5530CAD7F2D4733/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046172317/BA36420818C71D77781BD5E180B1BC7CBF5AF082/"
         },
         "9": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2061000438182910450/3477F08987C17085F15018615819FA2CE7A540AF/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2061000438182910346/AD0C365C4EB7F2E058EF89812AA782C259B79D0A/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046173810/B469988589C5BF9155FD68E917F972D8AAE24B46/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046173556/05436D87FF1C09778A4EE23C229514F575A54C0D/"
         }
     }
 }
