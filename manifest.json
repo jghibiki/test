@@ -5376,6 +5376,51 @@
                 "affiliations": [
                     "The Batman Who Laughs"
                 ]
+            },
+            {
+                "id": 811,
+                "name": "Mr. Freeze (1997) - VIctor Fries",
+                "x": 6,
+                "y": 2,
+                "affiliations": [
+                    "Mr. Freeze"
+                ]
+            },
+            {
+                "id": 812,
+                "name": "Batman (1997) - Bruce Wayne",
+                "x": 7,
+                "y": 2,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 813,
+                "name": "Robin (1997) - Dick Grayson",
+                "x": 8,
+                "y": 2,
+                "affiliations": [
+                    "Batman"
+                ]
+            },
+            {
+                "id": 814,
+                "name": "Poison Ivy (1997) - Dr. Pamela Lillian Isley",
+                "x": 9,
+                "y": 2,
+                "affiliations": [
+                    "Birds of Prey"
+                ]
+            },
+            {
+                "id": 815,
+                "name": "Kid Flash - Wally West",
+                "x": 10,
+                "y": 2,
+                "affiliations": [
+                    "Teen Titans"
+                ]
             }
         ]
     },
@@ -5407,7 +5452,7 @@
     ],
     "sheets": {
         "1": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046163683/E62BCF8AF2CF12A5D368BFF556D5E04A23AF47BE/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/2138705195802054319/25680412C843C15B759AB1C44FA6AC58A9E6D63B/",
             "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046162981/80513CD7EAEC0776872EBD0A96A3F805917A8714/"
         },
         "2": {
@@ -5419,7 +5464,7 @@
             "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046165381/77BD5391A471E4AD7E8594FDBD9D70B221388B54/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046167500/19713888C577F28212B64D2547DD5E0FA90173B1/",
+            "front": "http://cloud-3.steamusercontent.com/ugc/2138705195802055146/6E2FDFB8F34C7CD168E100418F9FD69682B20C5D/",
             "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046166580/8DA40B4F4D1EEAC3A94F0FA4CE692D607306B8D5/"
         },
         "5": {
@@ -5439,8 +5484,8 @@
             "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046172317/BA36420818C71D77781BD5E180B1BC7CBF5AF082/"
         },
         "9": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2045248441046173810/B469988589C5BF9155FD68E917F972D8AAE24B46/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2045248441046173556/05436D87FF1C09778A4EE23C229514F575A54C0D/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2138705195802056372/407E3B42BCC5344A1452CC5AFEDB33B88F933F0E/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2138705195802056097/E504EB02D52320AD100AEB0414BB366FCD6F0928/"
         }
     }
 }
