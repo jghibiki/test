@@ -483,7 +483,7 @@
             },
             {
                 "id": 116,
-                "name": "Foxtrot - Unknown",
+                "name": "Foxtrot - Foxtrot",
                 "x": 3,
                 "y": 6,
                 "affiliations": [
@@ -751,7 +751,7 @@
             },
             {
                 "id": 184,
-                "name": "Lerida - Unknown",
+                "name": "Lerida - Lerida",
                 "x": 2,
                 "y": 2,
                 "affiliations": [
@@ -1096,7 +1096,7 @@
             },
             {
                 "id": 283,
-                "name": "Sierra - Unknown",
+                "name": "Sierra - Sierra",
                 "x": 10,
                 "y": 5,
                 "affiliations": [
@@ -1209,8 +1209,7 @@
                 "x": 2,
                 "y": 7,
                 "affiliations": [
-                    "Riddler",
-                    "Suicide Squad"
+                    "Riddler"
                 ]
             },
             {
@@ -1264,6 +1263,7 @@
                 "x": 8,
                 "y": 7,
                 "affiliations": [
+                    "Suicide Squad",
                     "The Court of Owls"
                 ]
             },
@@ -1578,7 +1578,7 @@
                 "x": 2,
                 "y": 4,
                 "affiliations": [
-                    "Unknown"
+                    "The Batman Who Laughs"
                 ]
             },
             {
@@ -1587,7 +1587,7 @@
                 "x": 3,
                 "y": 4,
                 "affiliations": [
-                    "Unknown"
+                    "The Batman Who Laughs"
                 ]
             },
             {
@@ -1596,7 +1596,7 @@
                 "x": 4,
                 "y": 4,
                 "affiliations": [
-                    "Unknown"
+                    "The Batman Who Laughs"
                 ]
             },
             {
@@ -1923,9 +1923,7 @@
                 "y": 7,
                 "affiliations": [
                     "Law Forces",
-                    "Vigilantes",
-                    "League of Assassins",
-                    "The Court of Owls"
+                    "Vigilantes"
                 ]
             }
         ],
@@ -2015,7 +2013,7 @@
             },
             {
                 "id": 446,
-                "name": "The Penguin - Oswald Chesterfield Cobblepot",
+                "name": "The Penguin (New 52) - Oswald Chesterfield Cobblepot",
                 "x": 10,
                 "y": 1,
                 "affiliations": [
@@ -2182,8 +2180,7 @@
                 "x": 8,
                 "y": 3,
                 "affiliations": [
-                    "League of Assassins",
-                    "Suicide Squad"
+                    "League of Assassins"
                 ]
             },
             {
@@ -2286,6 +2283,7 @@
                 "x": 9,
                 "y": 4,
                 "affiliations": [
+                    "Law Forces",
                     "Unknown"
                 ]
             },
@@ -2990,8 +2988,7 @@
                 "x": 5,
                 "y": 5,
                 "affiliations": [
-                    "Harley Quinn & Friends",
-                    "Suicide Squad"
+                    "Harley Quinn & Friends"
                 ]
             },
             {
@@ -3073,6 +3070,7 @@
                 "x": 4,
                 "y": 6,
                 "affiliations": [
+                    "Suicide Squad",
                     "Unknown"
                 ]
             },
@@ -3314,7 +3312,7 @@
                 "x": 10,
                 "y": 1,
                 "affiliations": [
-                    "The Batman Who Laughs"
+                    "Unknown"
                 ]
             },
             {
@@ -3422,8 +3420,7 @@
                 "x": 2,
                 "y": 3,
                 "affiliations": [
-                    "Riddler",
-                    "Suicide Squad"
+                    "Riddler"
                 ]
             },
             {
@@ -3795,7 +3792,7 @@
             },
             {
                 "id": 650,
-                "name": "Emperor Penguin - Ignatius Ogilvy",
+                "name": "Emperor Penguin (Unchained) - Ignatius Ogilvy",
                 "x": 3,
                 "y": 7,
                 "affiliations": [
@@ -3914,7 +3911,7 @@
             },
             {
                 "id": 663,
-                "name": "Green Arrow - Oliver Queen",
+                "name": "Green Arrow (Rebirth) - Oliver Queen",
                 "x": 6,
                 "y": 1,
                 "affiliations": [
@@ -3923,7 +3920,7 @@
             },
             {
                 "id": 664,
-                "name": "Black Canary - Dinah Lance",
+                "name": "Black Canary (Rebirth) - Dinah Lance",
                 "x": 7,
                 "y": 1,
                 "affiliations": [
@@ -3933,7 +3930,7 @@
             },
             {
                 "id": 665,
-                "name": "Catwoman - Selina Kyle",
+                "name": "Catwoman (Julie Newmar) - Selina Kyle",
                 "x": 8,
                 "y": 1,
                 "affiliations": [
@@ -3942,7 +3939,7 @@
             },
             {
                 "id": 666,
-                "name": "Catman - Thomas Reese Blake",
+                "name": "Catman (The Hunter) - Thomas Reese Blake",
                 "x": 9,
                 "y": 1,
                 "affiliations": [
@@ -4012,9 +4009,7 @@
                 "x": 6,
                 "y": 2,
                 "affiliations": [
-                    "Harley Quinn & Friends",
-                    "Mr. Freeze",
-                    "Suicide Squad"
+                    "Mr. Freeze"
                 ]
             },
             {
@@ -4648,7 +4643,7 @@
             },
             {
                 "id": 743,
-                "name": "Calculator - Noah Kuttler",
+                "name": "Calculator (Classic) - Noah Kuttler",
                 "x": 6,
                 "y": 2,
                 "affiliations": [
@@ -4910,7 +4905,7 @@
             },
             {
                 "id": 772,
-                "name": "Joker - Unknown",
+                "name": "Joker (Christmas) - Unknown",
                 "x": 5,
                 "y": 5,
                 "affiliations": [
@@ -4982,7 +4977,7 @@
             },
             {
                 "id": 780,
-                "name": "SWAT QRT 1 - Unknown",
+                "name": "SWAT QRT 1 - QRT 1",
                 "x": 3,
                 "y": 6,
                 "affiliations": [
@@ -4991,7 +4986,7 @@
             },
             {
                 "id": 781,
-                "name": "SWAT QRT 2 - Unknown",
+                "name": "SWAT QRT 2 - QRT 2",
                 "x": 4,
                 "y": 6,
                 "affiliations": [
@@ -5000,7 +4995,7 @@
             },
             {
                 "id": 782,
-                "name": "SWAT QRT 3 - Unknown",
+                "name": "SWAT QRT 3 - QRT 3",
                 "x": 5,
                 "y": 6,
                 "affiliations": [
@@ -5463,7 +5458,7 @@
             },
             {
                 "id": 835,
-                "name": "Amanda Waller - Amanda Waller",
+                "name": "Amanda Waller (Viola Davis) - Amanda Waller",
                 "x": 6,
                 "y": 4,
                 "affiliations": [
@@ -5472,7 +5467,7 @@
             },
             {
                 "id": 836,
-                "name": "Rick Flag - Rick Flag",
+                "name": "Rick Flag (Infiltration) - Rick Flag",
                 "x": 7,
                 "y": 4,
                 "affiliations": [
@@ -5499,7 +5494,7 @@
             },
             {
                 "id": 839,
-                "name": "The Riddler - Edward Nigma",
+                "name": "The Riddler (Jim Carrey) - Edward Nigma",
                 "x": 10,
                 "y": 4,
                 "affiliations": [
@@ -5508,7 +5503,7 @@
             },
             {
                 "id": 840,
-                "name": "Two-Face - Harvey Dent",
+                "name": "Two-Face (Tommy Lee Jones) - Harvey Dent",
                 "x": 1,
                 "y": 5,
                 "affiliations": [
@@ -5517,7 +5512,7 @@
             },
             {
                 "id": 841,
-                "name": "Two-Face - Harvey Dent",
+                "name": "Two-Face (Tommy Lee Jones) - Harvey Dent",
                 "x": 2,
                 "y": 5,
                 "affiliations": [
@@ -5550,6 +5545,241 @@
                 "affiliations": [
                     "Soldiers of Fortune"
                 ]
+            },
+            {
+                "id": 845,
+                "name": "Robin - Damian Wayne",
+                "x": 6,
+                "y": 5,
+                "affiliations": [
+                    "League of Assassins",
+                    "The Court of Owls"
+                ]
+            },
+            {
+                "id": 846,
+                "name": "Batman (Frank Miller on Horse) - Bruce Wayne",
+                "x": 7,
+                "y": 5,
+                "affiliations": [
+                    "Law Forces",
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 848,
+                "name": "Batman (Frank Miller on Power Armor) - Bruce Wayne",
+                "x": 8,
+                "y": 5,
+                "affiliations": [
+                    "Law Forces",
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 849,
+                "name": "The Penguin (Penguin's Duck) - Oswald Chesterfield Cobblepot",
+                "x": 9,
+                "y": 5,
+                "affiliations": [
+                    "Penguin"
+                ]
+            },
+            {
+                "id": 850,
+                "name": "Batman (Dark Knight Rises) - Bruce Wayne",
+                "x": 10,
+                "y": 5,
+                "affiliations": [
+                    "Law Forces"
+                ]
+            },
+            {
+                "id": 851,
+                "name": "Catwoman (Dark Knight Rises) - Selina Kyle",
+                "x": 1,
+                "y": 6,
+                "affiliations": [
+                    "Law Forces",
+                    "Unknown"
+                ]
+            },
+            {
+                "id": 852,
+                "name": "Batman (Beyond) - Terry McGinnis",
+                "x": 2,
+                "y": 6,
+                "affiliations": [
+                    "Law Forces",
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 853,
+                "name": "Robin (Beyond) - Matt McGinnis",
+                "x": 3,
+                "y": 6,
+                "affiliations": [
+                    "Law Forces",
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 854,
+                "name": "Mr. Wayne (Beyond) - Bruce Wayne",
+                "x": 4,
+                "y": 6,
+                "affiliations": [
+                    "Law Forces",
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 855,
+                "name": "Joker (Explosive Arrival) - Unknown",
+                "x": 5,
+                "y": 6,
+                "affiliations": [
+                    "Joker"
+                ]
+            },
+            {
+                "id": 856,
+                "name": "Cheshire - Jade Nguyen",
+                "x": 6,
+                "y": 6,
+                "affiliations": [
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 857,
+                "name": "Poison Ivy - Dr. Pamela Lillian Isley",
+                "x": 7,
+                "y": 6,
+                "affiliations": [
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 858,
+                "name": "Killer Frost (Rebirth) - Caitlin Snow",
+                "x": 8,
+                "y": 6,
+                "affiliations": [
+                    "Harley Quinn & Friends",
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 859,
+                "name": "The Riddler - Edward Nigma",
+                "x": 9,
+                "y": 6,
+                "affiliations": [
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 860,
+                "name": "The Riddler (Modern Age) - Edward Nigma",
+                "x": 10,
+                "y": 6,
+                "affiliations": [
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 861,
+                "name": "Batman (The Animated Series) - Bruce Wayne",
+                "x": 1,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 862,
+                "name": "Batgirl (The Animated Series) - Barbara Gordon",
+                "x": 2,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 863,
+                "name": "Green Arrow (The Animated Series) - Oliver Queen",
+                "x": 3,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 864,
+                "name": "Black Canary (The Animated Series) - Dinah Lance",
+                "x": 4,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 865,
+                "name": "Catwoman (The Animated Series) - Selina Kyle",
+                "x": 5,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes"
+                ]
+            },
+            {
+                "id": 866,
+                "name": "Ravager (Vanguard Team) - Rose Wilson",
+                "x": 6,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes",
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 867,
+                "name": "Deathstroke (Vanguard Team) - Slade Wilson",
+                "x": 7,
+                "y": 7,
+                "affiliations": [
+                    "Suicide Squad",
+                    "Unknown"
+                ]
+            },
+            {
+                "id": 868,
+                "name": "Captain Boomerang (Vanguard Team) - George \"Digger\" Harkness",
+                "x": 8,
+                "y": 7,
+                "affiliations": [
+                    "Suicide Squad"
+                ]
+            },
+            {
+                "id": 869,
+                "name": "The Grim Knight - Bruce Wayne",
+                "x": 9,
+                "y": 7,
+                "affiliations": [
+                    "The Batman Who Laughs"
+                ]
+            },
+            {
+                "id": 870,
+                "name": "Harley Quinn (The Animated Series) - Dr. Harleen Frances Quinzel",
+                "x": 10,
+                "y": 7,
+                "affiliations": [
+                    "Vigilantes"
+                ]
             }
         ]
     },
@@ -5578,40 +5808,40 @@
     ],
     "sheets": {
         "1": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782138690/859D07CFB9BCAE4C4E510AFCE3AD791281234F95/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782137855/56A4F6757D4CEE81F73E90F3F989A124A921485C/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830128285/52A92C0D1E41004F7FEBD134945AA5E79C0AD7DA/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830127098/BC206AFBA79A613B59D86D01B372D2B0ED72BCA1/"
         },
         "2": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782139977/AEBC68E8DD3A3E72C4547083E239D0F03B5F8F95/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782139214/4476CFD20F3088DE64464905047032D2094E5550/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830130597/001ADB00074F6FE48DA31607A805A768F7405B4C/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830129470/C35323B905402D58F3C664FA161E2DAFB0FC229D/"
         },
         "3": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782141293/38EA47DADD39399AD14E88E01E9C5615BCCEF61E/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782140538/45A2196F57EFC480FD5B4D62B4B6BE05EBA7997C/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830133158/3A97205CEA4D8FD2F34CD365EEEE441029DD1063/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830131911/9B50D026CFF312A39D587D86ADD4C651DE5CD372/"
         },
         "4": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782142679/0CA49012C3AC93855AA88A587D014EA0AE4EA30D/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782141889/246597152FBB97F773E5FC1966CAA46F7E8E4A5E/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830135580/66C5DC54F7610F6044CBA9396994BADD370E6C5E/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830134362/CAE37285540C5EF5FEC5788E5A0C7DF9BE12A0E7/"
         },
         "5": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782144032/660BF2FE554F87138D78DD678D6BCCAF150FE27D/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782143223/3F6B9B0FEBA28F7B3E9A84F81762A0063C6864DB/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830138029/2EA83759AE14D33352E462F3953BE9122116D28C/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830136802/F3CE4B448998EE60EC3CA5F9BAC5035B455804D0/"
         },
         "6": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782145370/328116E2C1925179B7AEAF12AC42BC48B6C72321/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782144707/BD0DB94088880F60B23FDE93083AEACD2DA2CEBC/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830141124/2EA36F5D0BB0F63B6611729665323BC8B466DAF6/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830139864/2F3FDA21C79D01F84EAFFC06475EDDC7636C397D/"
         },
         "7": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782146809/802E46A84450C65014C4D769AA893ADAE6A77C22/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782145969/80834F56BAE72480AE34080A1C7C461D97852492/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830143739/D9773E0E42106FAB3E2F8FCB0A9E6BF69C414B21/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830142458/E4C1FD157F330F4FF92EC94D529A17AB21550FE3/"
         },
         "8": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782148295/BFFC0AAC6024B3E3506A37563F640E848BEAC824/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782147516/F2276A1EEE5C80340A0C6510FB3AD60F9BE5B545/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830146988/F519E10EB1D99CBCF2BE8821735F7AC35332CF43/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830145721/516B266EC284FFC298104A049E9E3F556A01AE57/"
         },
         "9": {
-            "front": "http://cloud-3.steamusercontent.com/ugc/2303090213782149442/03EF68C47D61C99F54F9F9BF9E58DD73AC5CD936/",
-            "back": "http://cloud-3.steamusercontent.com/ugc/2303090213782148960/BA26095D5798356BB7D660153E61B1A2D4B565BA/"
+            "front": "http://cloud-3.steamusercontent.com/ugc/2456221571830146988/F519E10EB1D99CBCF2BE8821735F7AC35332CF43/",
+            "back": "http://cloud-3.steamusercontent.com/ugc/2456221571830146988/F519E10EB1D99CBCF2BE8821735F7AC35332CF43/"
         }
     }
 }
